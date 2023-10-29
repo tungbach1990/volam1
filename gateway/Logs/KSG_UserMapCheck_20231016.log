@@ -1,0 +1,461 @@
+2023-10-16 22:57:29	Gameserver(10) update map ok
+2023-10-16 22:57:31	LoginToMap: Account(tungbach1990), Index(197), IP:125.212.238.136 : 63112
+2023-10-16 22:57:31	ProcessRoleList -> nNextTask(1) m_lnIdentityID 197 m_dwGoddessIdentity:198 Account:tungbach1990
+2023-10-16 22:57:31	ApplyRoleData Identity: 198 Account:tungbach1990 Role:GameMaster
+2023-10-16 22:57:31	SelAddDelRole -> nNextTask(3) m_lnIdentityID 197, m_dwGoddessIdentity:198 Account:tungbach1990 role: GameMaster
+2023-10-16 22:57:31	_SyncRoleInfo_ToGameServer result is 0 Identity:198 Account:tungbach1990 Role: GameMaster
+2023-10-16 22:57:31	ProcessRoleInfo nNextTask: 11  Identity:198 Account:tungbach1990
+2023-10-16 22:57:31	Unlock tungbach1990(null): 1
+2023-10-16 22:57:31	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(197), Role(), Map(0)
+2023-10-16 22:57:35	LoginToMap: Account(mamen), Index(198), IP:14.191.180.126 : 22032
+2023-10-16 22:57:35	ProcessRoleList -> nNextTask(1) m_lnIdentityID 198 m_dwGoddessIdentity:199 Account:mamen
+2023-10-16 22:57:35	ApplyRoleData Identity: 199 Account:mamen Role:…C26–Tom…
+2023-10-16 22:57:35	SelAddDelRole -> nNextTask(3) m_lnIdentityID 198, m_dwGoddessIdentity:199 Account:mamen role: …C26–Tom…
+2023-10-16 22:57:35	_SyncRoleInfo_ToGameServer result is 0 Identity:199 Account:mamen Role: …C26–Tom…
+2023-10-16 22:57:35	ProcessRoleInfo nNextTask: 11  Identity:199 Account:mamen
+2023-10-16 22:57:35	Unlock mamen(null): 1
+2023-10-16 22:57:35	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(198), Role(), Map(0)
+2023-10-16 22:57:38	LoginToMap: Account(mamen), Index(199), IP:14.191.180.126 : 13130
+2023-10-16 22:57:38	ProcessRoleList -> nNextTask(1) m_lnIdentityID 199 m_dwGoddessIdentity:200 Account:mamen
+2023-10-16 22:57:38	ApplyRoleData Identity: 200 Account:mamen Role:…C26–Tom…
+2023-10-16 22:57:38	SelAddDelRole -> nNextTask(3) m_lnIdentityID 199, m_dwGoddessIdentity:200 Account:mamen role: …C26–Tom…
+2023-10-16 22:57:38	set gameServer: -1=>10
+2023-10-16 22:57:38	set role name: =>…C26–Tom…
+2023-10-16 22:57:38	_SyncRoleInfo_ToGameServer result is 1 Identity:200 Account:mamen Role: …C26–Tom…
+2023-10-16 22:57:38	Map changed: 0=>53
+2023-10-16 22:57:38	ProcessRoleInfo nNextTask: 8  Identity:200 Account:mamen
+2023-10-16 22:57:38	GameServer(10) accept account(mamen), Map(53)
+2023-10-16 22:57:38	set status: 1=>2
+2023-10-16 22:57:38	GameServer(127.0.0.1) notify account(mamen) enter gameworld
+2023-10-16 22:57:41	LoginToMap: Account(tungbach1990), Index(200), IP:125.212.238.136 : 63117
+2023-10-16 22:57:41	ProcessRoleList -> nNextTask(1) m_lnIdentityID 200 m_dwGoddessIdentity:201 Account:tungbach1990
+2023-10-16 22:57:41	ApplyRoleData Identity: 201 Account:tungbach1990 Role:GameMaster
+2023-10-16 22:57:41	SelAddDelRole -> nNextTask(3) m_lnIdentityID 200, m_dwGoddessIdentity:201 Account:tungbach1990 role: GameMaster
+2023-10-16 22:57:41	set gameServer: -1=>10
+2023-10-16 22:57:41	set role name: =>GameMaster
+2023-10-16 22:57:41	_SyncRoleInfo_ToGameServer result is 1 Identity:201 Account:tungbach1990 Role: GameMaster
+2023-10-16 22:57:41	Map changed: 0=>53
+2023-10-16 22:57:41	ProcessRoleInfo nNextTask: 8  Identity:201 Account:tungbach1990
+2023-10-16 22:57:41	GameServer(10) accept account(tungbach1990), Map(53)
+2023-10-16 22:57:41	set status: 1=>2
+2023-10-16 22:57:41	GameServer(127.0.0.1) notify account(tungbach1990) enter gameworld
+2023-10-16 23:09:12	change extpoint[7]: account(tungbach1990), current(1), change(4)
+2023-10-16 23:10:45	GameSever(127.0.0.1) notify account(tungbach1990) leave gameworld: CmdType(0x0), Status(2), GameServer(10), LivingTime(13min)
+2023-10-16 23:10:45	LogoutFromMap: Account(tungbach1990), GameServer(10), Status(2), PlayrIndex(200), Role(GameMaster), Map(53)
+2023-10-16 23:10:53	LoginToMap: Account(tungbach1990), Index(201), IP:125.212.238.136 : 63584
+2023-10-16 23:10:53	ProcessRoleList -> nNextTask(1) m_lnIdentityID 201 m_dwGoddessIdentity:202 Account:tungbach1990
+2023-10-16 23:10:53	ApplyRoleData Identity: 202 Account:tungbach1990 Role:GameMaster
+2023-10-16 23:10:53	SelAddDelRole -> nNextTask(3) m_lnIdentityID 201, m_dwGoddessIdentity:202 Account:tungbach1990 role: GameMaster
+2023-10-16 23:10:53	set gameServer: -1=>10
+2023-10-16 23:10:53	set role name: =>GameMaster
+2023-10-16 23:10:53	_SyncRoleInfo_ToGameServer result is 1 Identity:202 Account:tungbach1990 Role: GameMaster
+2023-10-16 23:10:53	Map changed: 0=>53
+2023-10-16 23:10:53	ProcessRoleInfo nNextTask: 8  Identity:202 Account:tungbach1990
+2023-10-16 23:10:53	GameServer(10) accept account(tungbach1990), Map(53)
+2023-10-16 23:10:53	set status: 1=>2
+2023-10-16 23:10:53	GameServer(127.0.0.1) notify account(tungbach1990) enter gameworld
+2023-10-16 23:10:58	GameSever(127.0.0.1) notify account(tungbach1990) leave gameworld: CmdType(0x0), Status(2), GameServer(10), LivingTime(0min)
+2023-10-16 23:10:58	LogoutFromMap: Account(tungbach1990), GameServer(10), Status(2), PlayrIndex(201), Role(GameMaster), Map(53)
+2023-10-16 23:11:01	LoginToMap: Account(tungbach1990), Index(202), IP:125.212.238.136 : 63590
+2023-10-16 23:11:01	ProcessRoleList -> nNextTask(1) m_lnIdentityID 202 m_dwGoddessIdentity:203 Account:tungbach1990
+2023-10-16 23:11:07	DelRole_WaitForVerify ->nNextTask(8) Identity:203 Account:tungbach1990 role: GameMaster
+2023-10-16 23:11:07	DelRole_WaitForRelay -> nNextTask(8) Identity 203 Account:tungbach1990 role:GameMaster
+2023-10-16 23:11:42	Unlock tungbach1990(GameMaster): 1
+2023-10-16 23:11:42	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(202), Role(), Map(0)
+2023-10-16 23:11:44	LoginToMap: Account(tungbach1990), Index(203), IP:125.212.238.136 : 63608
+2023-10-16 23:11:45	ProcessRoleList -> nNextTask(1) m_lnIdentityID 203 m_dwGoddessIdentity:204 Account:tungbach1990
+2023-10-16 23:11:52	ApplyCreateData Identity: 204 Account:tungbach1990 Role:GameMaster
+2023-10-16 23:11:52	SelAddDelRole -> enumLoginCreateRole m_lnIdentityID 203, m_dwGoddessIdentity:204 Account:tungbach1990 role: GameMaster
+2023-10-16 23:11:52	WaitForCreateResult -> nNextTask(1) Identity:204 Account:tungbach1990
+2023-10-16 23:12:37	Unlock tungbach1990(null): 1
+2023-10-16 23:12:37	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(203), Role(), Map(0)
+2023-10-16 23:12:39	LoginToMap: Account(tungbach1990), Index(204), IP:125.212.238.136 : 63627
+2023-10-16 23:12:39	ProcessRoleList -> nNextTask(1) m_lnIdentityID 204 m_dwGoddessIdentity:205 Account:tungbach1990
+2023-10-16 23:12:44	ApplyCreateData Identity: 205 Account:tungbach1990 Role:GameMaster
+2023-10-16 23:12:44	SelAddDelRole -> enumLoginCreateRole m_lnIdentityID 204, m_dwGoddessIdentity:205 Account:tungbach1990 role: GameMaster
+2023-10-16 23:12:45	WaitForCreateResult -> nNextTask(1) Identity:205 Account:tungbach1990
+2023-10-16 23:14:12	Unlock tungbach1990(null): 1
+2023-10-16 23:14:12	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(204), Role(), Map(0)
+2023-10-16 23:14:26	GameSever(127.0.0.1) notify account(mamen) leave gameworld: CmdType(0x0), Status(2), GameServer(10), LivingTime(16min)
+2023-10-16 23:14:26	LogoutFromMap: Account(mamen), GameServer(10), Status(2), PlayrIndex(199), Role(…C26–Tom…), Map(53)
+2023-10-16 23:15:20	LoginToMap: Account(mamen), Index(205), IP:14.191.180.126 : 33129
+2023-10-16 23:15:20	ProcessRoleList -> nNextTask(1) m_lnIdentityID 205 m_dwGoddessIdentity:206 Account:mamen
+2023-10-16 23:15:22	ApplyRoleData Identity: 206 Account:mamen Role:…C26–Tom…
+2023-10-16 23:15:22	SelAddDelRole -> nNextTask(3) m_lnIdentityID 205, m_dwGoddessIdentity:206 Account:mamen role: …C26–Tom…
+2023-10-16 23:15:22	set gameServer: -1=>10
+2023-10-16 23:15:22	set role name: =>…C26–Tom…
+2023-10-16 23:15:22	_SyncRoleInfo_ToGameServer result is 1 Identity:206 Account:mamen Role: …C26–Tom…
+2023-10-16 23:15:22	Map changed: 0=>53
+2023-10-16 23:15:22	ProcessRoleInfo nNextTask: 8  Identity:206 Account:mamen
+2023-10-16 23:15:22	GameServer(10) accept account(mamen), Map(53)
+2023-10-16 23:15:22	set status: 1=>2
+2023-10-16 23:15:22	GameServer(127.0.0.1) notify account(mamen) enter gameworld
+2023-10-16 23:23:592023-10-16 23:40:01	LoginToMap: Account(mamen), Index(0), IP:14.191.180.126 : 15374
+2023-10-16 23:40:01	ProcessRoleList -> nNextTask(1) m_lnIdentityID 0 m_dwGoddessIdentity:1 Account:mamen
+2023-10-16 23:40:01	ApplyRoleData Identity: 1 Account:mamen Role:…C26–Tom…
+2023-10-16 23:40:01	SelAddDelRole -> nNextTask(3) m_lnIdentityID 0, m_dwGoddessIdentity:1 Account:mamen role: …C26–Tom…
+2023-10-16 23:40:01	_SyncRoleInfo_ToGameServer result is 0 Identity:1 Account:mamen Role: …C26–Tom…
+2023-10-16 23:40:01	ProcessRoleInfo nNextTask: 11  Identity:1 Account:mamen
+2023-10-16 23:40:01	Unlock mamen(null): 1
+2023-10-16 23:40:01	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(0), Role(), Map(0)
+2023-10-16 23:40:04	GameServer[0] create: 127.0.0.1 : 52758
+2023-10-16 23:40:06	LoginToMap: Account(mamen), Index(1), IP:14.191.180.126 : 18695
+2023-10-16 23:40:06	ProcessRoleList -> nNextTask(1) m_lnIdentityID 1 m_dwGoddessIdentity:2 Account:mamen
+2023-10-16 23:40:06	ApplyRoleData Identity: 2 Account:mamen Role:…C26–Tom…
+2023-10-16 23:40:06	SelAddDelRole -> nNextTask(3) m_lnIdentityID 1, m_dwGoddessIdentity:2 Account:mamen role: …C26–Tom…
+2023-10-16 23:40:06	_SyncRoleInfo_ToGameServer result is 0 Identity:2 Account:mamen Role: …C26–Tom…
+2023-10-16 23:40:06	ProcessRoleInfo nNextTask: 11  Identity:2 Account:mamen
+2023-10-16 23:40:06	Unlock mamen(null): 1
+2023-10-16 23:40:06	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(1), Role(), Map(0)
+2023-10-16 23:40:16	LoginToMap: Account(mamen), Index(3), IP:14.191.180.126 : 30061
+2023-10-16 23:40:16	ProcessRoleList -> nNextTask(1) m_lnIdentityID 3 m_dwGoddessIdentity:4 Account:mamen
+2023-10-16 23:40:16	ApplyRoleData Identity: 4 Account:mamen Role:…C26–Tom…
+2023-10-16 23:40:16	SelAddDelRole -> nNextTask(3) m_lnIdentityID 3, m_dwGoddessIdentity:4 Account:mamen role: …C26–Tom…
+2023-10-16 23:40:16	_SyncRoleInfo_ToGameServer result is 0 Identity:4 Account:mamen Role: …C26–Tom…
+2023-10-16 23:40:16	ProcessRoleInfo nNextTask: 11  Identity:4 Account:mamen
+2023-10-16 23:40:16	Unlock mamen(null): 1
+2023-10-16 23:40:16	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(3), Role(), Map(0)
+2023-10-16 23:40:27	LoginToMap: Account(mamen), Index(4), IP:14.191.180.126 : 2321
+2023-10-16 23:40:27	ProcessRoleList -> nNextTask(1) m_lnIdentityID 4 m_dwGoddessIdentity:5 Account:mamen
+2023-10-16 23:40:27	ApplyRoleData Identity: 5 Account:mamen Role:…C26–Tom…
+2023-10-16 23:40:27	SelAddDelRole -> nNextTask(3) m_lnIdentityID 4, m_dwGoddessIdentity:5 Account:mamen role: …C26–Tom…
+2023-10-16 23:40:27	_SyncRoleInfo_ToGameServer result is 0 Identity:5 Account:mamen Role: …C26–Tom…
+2023-10-16 23:40:27	ProcessRoleInfo nNextTask: 11  Identity:5 Account:mamen
+2023-10-16 23:40:27	Unlock mamen(null): 1
+2023-10-16 23:40:27	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(4), Role(), Map(0)
+2023-10-16 23:40:31	LoginToMap: Account(tungbach1990), Index(2), IP:125.212.238.136 : 64450
+2023-10-16 23:40:31	ProcessRoleList -> nNextTask(1) m_lnIdentityID 2 m_dwGoddessIdentity:3 Account:tungbach1990
+2023-10-16 23:40:32	GameServer[1] create: 127.0.0.1 : 37591
+2023-10-16 23:40:36	LoginToMap: Account(mamen), Index(5), IP:14.191.180.126 : 4967
+2023-10-16 23:40:36	ProcessRoleList -> nNextTask(1) m_lnIdentityID 5 m_dwGoddessIdentity:6 Account:mamen
+2023-10-16 23:40:36	ApplyRoleData Identity: 6 Account:mamen Role:…C26–Tom…
+2023-10-16 23:40:36	SelAddDelRole -> nNextTask(3) m_lnIdentityID 5, m_dwGoddessIdentity:6 Account:mamen role: …C26–Tom…
+2023-10-16 23:40:36	_SyncRoleInfo_ToGameServer result is 0 Identity:6 Account:mamen Role: …C26–Tom…
+2023-10-16 23:40:36	ProcessRoleInfo nNextTask: 11  Identity:6 Account:mamen
+2023-10-16 23:40:36	Unlock mamen(null): 1
+2023-10-16 23:40:36	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(5), Role(), Map(0)
+2023-10-16 23:40:46	LoginToMap: Account(mamen), Index(6), IP:14.191.180.126 : 21861
+2023-10-16 23:40:46	ProcessRoleList -> nNextTask(1) m_lnIdentityID 6 m_dwGoddessIdentity:7 Account:mamen
+2023-10-16 23:40:46	ApplyRoleData Identity: 7 Account:mamen Role:…C26–Tom…
+2023-10-16 23:40:46	SelAddDelRole -> nNextTask(3) m_lnIdentityID 6, m_dwGoddessIdentity:7 Account:mamen role: …C26–Tom…
+2023-10-16 23:40:47	_SyncRoleInfo_ToGameServer result is 0 Identity:7 Account:mamen Role: …C26–Tom…
+2023-10-16 23:40:47	ProcessRoleInfo nNextTask: 11  Identity:7 Account:mamen
+2023-10-16 23:40:47	Unlock mamen(null): 1
+2023-10-16 23:40:47	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(6), Role(), Map(0)
+2023-10-16 23:40:56	Unlock tungbach1990(null): 1
+2023-10-16 23:40:56	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(2), Role(), Map(0)
+2023-10-16 23:40:57	LoginToMap: Account(mamen), Index(7), IP:14.191.180.126 : 4110
+2023-10-16 23:40:57	ProcessRoleList -> nNextTask(1) m_lnIdentityID 7 m_dwGoddessIdentity:8 Account:mamen
+2023-10-16 23:40:57	ApplyRoleData Identity: 8 Account:mamen Role:…C26–Tom…
+2023-10-16 23:40:57	SelAddDelRole -> nNextTask(3) m_lnIdentityID 7, m_dwGoddessIdentity:8 Account:mamen role: …C26–Tom…
+2023-10-16 23:40:57	_SyncRoleInfo_ToGameServer result is 0 Identity:8 Account:mamen Role: …C26–Tom…
+2023-10-16 23:40:57	ProcessRoleInfo nNextTask: 11  Identity:8 Account:mamen
+2023-10-16 23:40:57	Unlock mamen(null): 1
+2023-10-16 23:40:57	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(7), Role(), Map(0)
+2023-10-16 23:41:07	LoginToMap: Account(mamen), Index(8), IP:14.191.180.126 : 27082
+2023-10-16 23:41:07	ProcessRoleList -> nNextTask(1) m_lnIdentityID 8 m_dwGoddessIdentity:9 Account:mamen
+2023-10-16 23:41:07	ApplyRoleData Identity: 9 Account:mamen Role:…C26–Tom…
+2023-10-16 23:41:07	SelAddDelRole -> nNextTask(3) m_lnIdentityID 8, m_dwGoddessIdentity:9 Account:mamen role: …C26–Tom…
+2023-10-16 23:41:07	_SyncRoleInfo_ToGameServer result is 0 Identity:9 Account:mamen Role: …C26–Tom…
+2023-10-16 23:41:07	ProcessRoleInfo nNextTask: 11  Identity:9 Account:mamen
+2023-10-16 23:41:07	Unlock mamen(null): 1
+2023-10-16 23:41:07	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(8), Role(), Map(0)
+2023-10-16 23:41:13	Gameserver(1) update map ok
+2023-10-16 23:41:17	LoginToMap: Account(mamen), Index(9), IP:14.191.180.126 : 18754
+2023-10-16 23:41:17	ProcessRoleList -> nNextTask(1) m_lnIdentityID 9 m_dwGoddessIdentity:10 Account:mamen
+2023-10-16 23:41:17	ApplyRoleData Identity: 10 Account:mamen Role:…C26–Tom…
+2023-10-16 23:41:17	SelAddDelRole -> nNextTask(3) m_lnIdentityID 9, m_dwGoddessIdentity:10 Account:mamen role: …C26–Tom…
+2023-10-16 23:41:17	_SyncRoleInfo_ToGameServer result is 0 Identity:10 Account:mamen Role: …C26–Tom…
+2023-10-16 23:41:17	ProcessRoleInfo nNextTask: 11  Identity:10 Account:mamen
+2023-10-16 23:41:17	Unlock mamen(null): 1
+2023-10-16 23:41:17	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(9), Role(), Map(0)
+2023-10-16 23:41:28	LoginToMap: Account(mamen), Index(10), IP:14.191.180.126 : 20648
+2023-10-16 23:41:28	ProcessRoleList -> nNextTask(1) m_lnIdentityID 10 m_dwGoddessIdentity:11 Account:mamen
+2023-10-16 23:41:28	ApplyRoleData Identity: 11 Account:mamen Role:…C26–Tom…
+2023-10-16 23:41:28	SelAddDelRole -> nNextTask(3) m_lnIdentityID 10, m_dwGoddessIdentity:11 Account:mamen role: …C26–Tom…
+2023-10-16 23:41:28	set gameServer: -1=>1
+2023-10-16 23:41:28	set role name: =>…C26–Tom…
+2023-10-16 23:41:28	_SyncRoleInfo_ToGameServer result is 1 Identity:11 Account:mamen Role: …C26–Tom…
+2023-10-16 23:41:28	Map changed: 0=>53
+2023-10-16 23:41:28	ProcessRoleInfo nNextTask: 8  Identity:11 Account:mamen
+2023-10-16 23:41:28	GameServer(1) accept account(mamen), Map(53)
+2023-10-16 23:41:28	set status: 1=>2
+2023-10-16 23:41:28	GameServer(127.0.0.1) notify account(mamen) enter gameworld
+2023-10-16 23:41:40	LoginToMap: Account(tungbach1990), Index(11), IP:125.212.238.136 : 64483
+2023-10-16 23:41:40	ProcessRoleList -> nNextTask(1) m_lnIdentityID 11 m_dwGoddessIdentity:12 Account:tungbach1990
+2023-10-16 23:41:47	ApplyCreateData Identity: 12 Account:tungbach1990 Role:GameMaster
+2023-10-16 23:41:47	SelAddDelRole -> enumLoginCreateRole m_lnIdentityID 11, m_dwGoddessIdentity:12 Account:tungbach1990 role: GameMaster
+2023-10-16 23:41:47	WaitForCreateResult -> nNextTask(1) Identity:12 Account:tungbach1990
+2023-10-16 23:41:57	Unlock tungbach1990(null): 1
+2023-10-16 23:41:57	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(11), Role(), Map(0)
+2023-10-16 23:42:05	LoginToMap: Account(tungbach1990), Index(12), IP:125.212.238.136 : 64492
+2023-10-16 23:42:05	ProcessRoleList -> nNextTask(1) m_lnIdentityID 12 m_dwGoddessIdentity:13 Account:tungbach1990
+2023-10-16 23:42:27	ApplyCreateData Identity: 13 Account:tungbach1990 Role:GameMaster2
+2023-10-16 23:42:27	SelAddDelRole -> enumLoginCreateRole m_lnIdentityID 12, m_dwGoddessIdentity:13 Account:tungbach1990 role: GameMaster2
+2023-10-16 23:42:27	set gameServer: -1=>1
+2023-10-16 23:42:27	set role name: =>GameMaster2
+2023-10-16 23:42:27	_SyncRoleInfo_ToGameServer result is 1 Identity:13 Account:tungbach1990 Role: GameMaster2
+2023-10-16 23:42:27	Map changed: 0=>53
+2023-10-16 23:42:27	WaitForCreateResult -> nNextTask(8) Identity:13 Account:tungbach1990
+2023-10-16 23:42:27	GameServer(1) accept account(tungbach1990), Map(53)
+2023-10-16 23:42:27	set status: 1=>2
+2023-10-16 23:42:27	GameServer(127.0.0.1) notify account(tungbach1990) enter gameworld
+2023-10-16 23:42:50	GameSever(127.0.0.1) notify account(tungbach1990) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-10-16 23:42:50	LogoutFromMap: Account(tungbach1990), GameServer(1), Status(2), PlayrIndex(12), Role(GameMaster2), Map(53)
+2023-10-16 23:42:57	LoginToMap: Account(tungbach1990), Index(13), IP:125.212.238.136 : 64531
+2023-10-16 23:42:57	ProcessRoleList -> nNextTask(1) m_lnIdentityID 13 m_dwGoddessIdentity:14 Account:tungbach1990
+2023-10-16 23:42:59	Unlock tungbach1990(null): 1
+2023-10-16 23:42:59	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(13), Role(), Map(0)
+2023-10-16 23:43:11	LoginToMap: Account(tungbach1990), Index(14), IP:125.212.238.136 : 64538
+2023-10-16 23:43:11	ProcessRoleList -> nNextTask(1) m_lnIdentityID 14 m_dwGoddessIdentity:15 Account:tungbach1990
+2023-10-16 23:43:12	ApplyRoleData Identity: 15 Account:tungbach1990 Role:GameMaster2
+2023-10-16 23:43:12	SelAddDelRole -> nNextTask(3) m_lnIdentityID 14, m_dwGoddessIdentity:15 Account:tungbach1990 role: GameMaster2
+2023-10-16 23:43:12	set gameServer: -1=>1
+2023-10-16 23:43:12	set role name: =>GameMaster2
+2023-10-16 23:43:12	_SyncRoleInfo_ToGameServer result is 1 Identity:15 Account:tungbach1990 Role: GameMaster2
+2023-10-16 23:43:12	Map changed: 0=>53
+2023-10-16 23:43:12	ProcessRoleInfo nNextTask: 8  Identity:15 Account:tungbach1990
+2023-10-16 23:43:12	GameServer(1) accept account(tungbach1990), Map(53)
+2023-10-16 23:43:12	set status: 1=>2
+2023-10-16 23:43:12	GameServer(127.0.0.1) notify account(tungbach1990) enter gameworld
+2023-10-16 23:51:47	GameServer[1] destroy
+2023-10-16 23:51:47	LogoutFromMap: Account(mamen), GameServer(1), Status(2), PlayrIndex(10), Role(…C26–Tom…), Map(53)
+2023-10-16 23:51:47	LogoutFromMap: Account(tungbach1990), GameServer(1), Status(2), PlayrIndex(14), Role(GameMaster2), Map(53)
+2023-10-16 23:51:50	LoginToMap: Account(mamen), Index(15), IP:14.191.180.126 : 11054
+2023-10-16 23:51:50	ProcessRoleList -> nNextTask(1) m_lnIdentityID 15 m_dwGoddessIdentity:16 Account:mamen
+2023-10-16 23:51:50	ApplyRoleData Identity: 16 Account:mamen Role:…C26–Tom…
+2023-10-16 23:51:50	SelAddDelRole -> nNextTask(3) m_lnIdentityID 15, m_dwGoddessIdentity:16 Account:mamen role: …C26–Tom…
+2023-10-16 23:51:50	_SyncRoleInfo_ToGameServer result is 0 Identity:16 Account:mamen Role: …C26–Tom…
+2023-10-16 23:51:50	ProcessRoleInfo nNextTask: 11  Identity:16 Account:mamen
+2023-10-16 23:51:50	Unlock mamen(null): 1
+2023-10-16 23:51:50	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(15), Role(), Map(0)
+2023-10-16 23:51:54	LoginToMap: Account(tungbach1990), Index(16), IP:125.212.238.136 : 64778
+2023-10-16 23:51:54	ProcessRoleList -> nNextTask(1) m_lnIdentityID 16 m_dwGoddessIdentity:17 Account:tungbach1990
+2023-10-16 23:51:54	ApplyRoleData Identity: 17 Account:tungbach1990 Role:GameMaster2
+2023-10-16 23:51:54	SelAddDelRole -> nNextTask(3) m_lnIdentityID 16, m_dwGoddessIdentity:17 Account:tungbach1990 role: GameMaster2
+2023-10-16 23:51:54	_SyncRoleInfo_ToGameServer result is 0 Identity:17 Account:tungbach1990 Role: GameMaster2
+2023-10-16 23:51:54	ProcessRoleInfo nNextTask: 11  Identity:17 Account:tungbach1990
+2023-10-16 23:51:54	Unlock tungbach1990(null): 1
+2023-10-16 23:51:54	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(16), Role(), Map(0)
+2023-10-16 23:51:55	LoginToMap: Account(mamen), Index(17), IP:14.191.180.126 : 9347
+2023-10-16 23:51:56	ProcessRoleList -> nNextTask(1) m_lnIdentityID 17 m_dwGoddessIdentity:18 Account:mamen
+2023-10-16 23:51:56	ApplyRoleData Identity: 18 Account:mamen Role:…C26–Tom…
+2023-10-16 23:51:56	SelAddDelRole -> nNextTask(3) m_lnIdentityID 17, m_dwGoddessIdentity:18 Account:mamen role: …C26–Tom…
+2023-10-16 23:51:56	_SyncRoleInfo_ToGameServer result is 0 Identity:18 Account:mamen Role: …C26–Tom…
+2023-10-16 23:51:56	ProcessRoleInfo nNextTask: 11  Identity:18 Account:mamen
+2023-10-16 23:51:56	Unlock mamen(null): 1
+2023-10-16 23:51:56	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(17), Role(), Map(0)
+2023-10-16 23:51:59	LoginToMap: Account(tungbach1990), Index(18), IP:125.212.238.136 : 64781
+2023-10-16 23:52:00	ProcessRoleList -> nNextTask(1) m_lnIdentityID 18 m_dwGoddessIdentity:19 Account:tungbach1990
+2023-10-16 23:52:00	ApplyRoleData Identity: 19 Account:tungbach1990 Role:GameMaster2
+2023-10-16 23:52:00	SelAddDelRole -> nNextTask(3) m_lnIdentityID 18, m_dwGoddessIdentity:19 Account:tungbach1990 role: GameMaster2
+2023-10-16 23:52:00	_SyncRoleInfo_ToGameServer result is 0 Identity:19 Account:tungbach1990 Role: GameMaster2
+2023-10-16 23:52:00	ProcessRoleInfo nNextTask: 11  Identity:19 Account:tungbach1990
+2023-10-16 23:52:00	Unlock tungbach1990(null): 1
+2023-10-16 23:52:00	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(18), Role(), Map(0)
+2023-10-16 23:52:01	LoginToMap: Account(mamen), Index(19), IP:14.191.180.126 : 23663
+2023-10-16 23:52:01	ProcessRoleList -> nNextTask(1) m_lnIdentityID 19 m_dwGoddessIdentity:20 Account:mamen
+2023-10-16 23:52:01	ApplyRoleData Identity: 20 Account:mamen Role:…C26–Tom…
+2023-10-16 23:52:01	SelAddDelRole -> nNextTask(3) m_lnIdentityID 19, m_dwGoddessIdentity:20 Account:mamen role: …C26–Tom…
+2023-10-16 23:52:01	_SyncRoleInfo_ToGameServer result is 0 Identity:20 Account:mamen Role: …C26–Tom…
+2023-10-16 23:52:01	ProcessRoleInfo nNextTask: 11  Identity:20 Account:mamen
+2023-10-16 23:52:01	Unlock mamen(null): 1
+2023-10-16 23:52:01	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(19), Role(), Map(0)
+2023-10-16 23:52:05	LoginToMap: Account(tungbach1990), Index(20), IP:125.212.238.136 : 64784
+2023-10-16 23:52:05	ProcessRoleList -> nNextTask(1) m_lnIdentityID 20 m_dwGoddessIdentity:21 Account:tungbach1990
+2023-10-16 23:52:05	ApplyRoleData Identity: 21 Account:tungbach1990 Role:GameMaster2
+2023-10-16 23:52:05	SelAddDelRole -> nNextTask(3) m_lnIdentityID 20, m_dwGoddessIdentity:21 Account:tungbach1990 role: GameMaster2
+2023-10-16 23:52:05	_SyncRoleInfo_ToGameServer result is 0 Identity:21 Account:tungbach1990 Role: GameMaster2
+2023-10-16 23:52:05	ProcessRoleInfo nNextTask: 11  Identity:21 Account:tungbach1990
+2023-10-16 23:52:05	Unlock tungbach1990(null): 1
+2023-10-16 23:52:05	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(20), Role(), Map(0)
+2023-10-16 23:52:06	LoginToMap: Account(mamen), Index(21), IP:14.191.180.126 : 17016
+2023-10-16 23:52:06	ProcessRoleList -> nNextTask(1) m_lnIdentityID 21 m_dwGoddessIdentity:22 Account:mamen
+2023-10-16 23:52:06	ApplyRoleData Identity: 22 Account:mamen Role:…C26–Tom…
+2023-10-16 23:52:06	SelAddDelRole -> nNextTask(3) m_lnIdentityID 21, m_dwGoddessIdentity:22 Account:mamen role: …C26–Tom…
+2023-10-16 23:52:06	_SyncRoleInfo_ToGameServer result is 0 Identity:22 Account:mamen Role: …C26–Tom…
+2023-10-16 23:52:06	ProcessRoleInfo nNextTask: 11  Identity:22 Account:mamen
+2023-10-16 23:52:06	Unlock mamen(null): 1
+2023-10-16 23:52:06	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(21), Role(), Map(0)
+2023-10-16 23:52:10	GameServer[2] create: 127.0.0.1 : 33837
+2023-10-16 23:52:10	LoginToMap: Account(tungbach1990), Index(22), IP:125.212.238.136 : 64793
+2023-10-16 23:52:10	ProcessRoleList -> nNextTask(1) m_lnIdentityID 22 m_dwGoddessIdentity:23 Account:tungbach1990
+2023-10-16 23:52:10	ApplyRoleData Identity: 23 Account:tungbach1990 Role:GameMaster2
+2023-10-16 23:52:10	SelAddDelRole -> nNextTask(3) m_lnIdentityID 22, m_dwGoddessIdentity:23 Account:tungbach1990 role: GameMaster2
+2023-10-16 23:52:10	_SyncRoleInfo_ToGameServer result is 0 Identity:23 Account:tungbach1990 Role: GameMaster2
+2023-10-16 23:52:10	ProcessRoleInfo nNextTask: 11  Identity:23 Account:tungbach1990
+2023-10-16 23:52:10	Unlock tungbach1990(null): 1
+2023-10-16 23:52:10	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(22), Role(), Map(0)
+2023-10-16 23:52:16	LoginToMap: Account(mamen), Index(23), IP:14.191.180.126 : 31997
+2023-10-16 23:52:16	ProcessRoleList -> nNextTask(1) m_lnIdentityID 23 m_dwGoddessIdentity:24 Account:mamen
+2023-10-16 23:52:16	ApplyRoleData Identity: 24 Account:mamen Role:…C26–Tom…
+2023-10-16 23:52:16	SelAddDelRole -> nNextTask(3) m_lnIdentityID 23, m_dwGoddessIdentity:24 Account:mamen role: …C26–Tom…
+2023-10-16 23:52:16	_SyncRoleInfo_ToGameServer result is 0 Identity:24 Account:mamen Role: …C26–Tom…
+2023-10-16 23:52:16	ProcessRoleInfo nNextTask: 11  Identity:24 Account:mamen
+2023-10-16 23:52:16	Unlock mamen(null): 1
+2023-10-16 23:52:16	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(23), Role(), Map(0)
+2023-10-16 23:52:20	LoginToMap: Account(tungbach1990), Index(24), IP:125.212.238.136 : 64802
+2023-10-16 23:52:20	ProcessRoleList -> nNextTask(1) m_lnIdentityID 24 m_dwGoddessIdentity:25 Account:tungbach1990
+2023-10-16 23:52:20	ApplyRoleData Identity: 25 Account:tungbach1990 Role:GameMaster2
+2023-10-16 23:52:20	SelAddDelRole -> nNextTask(3) m_lnIdentityID 24, m_dwGoddessIdentity:25 Account:tungbach1990 role: GameMaster2
+2023-10-16 23:52:20	_SyncRoleInfo_ToGameServer result is 0 Identity:25 Account:tungbach1990 Role: GameMaster2
+2023-10-16 23:52:20	ProcessRoleInfo nNextTask: 11  Identity:25 Account:tungbach1990
+2023-10-16 23:52:20	Unlock tungbach1990(null): 1
+2023-10-16 23:52:20	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(24), Role(), Map(0)
+2023-10-16 23:52:26	LoginToMap: Account(mamen), Index(25), IP:14.191.180.126 : 5112
+2023-10-16 23:52:26	ProcessRoleList -> nNextTask(1) m_lnIdentityID 25 m_dwGoddessIdentity:26 Account:mamen
+2023-10-16 23:52:26	ApplyRoleData Identity: 26 Account:mamen Role:…C26–Tom…
+2023-10-16 23:52:26	SelAddDelRole -> nNextTask(3) m_lnIdentityID 25, m_dwGoddessIdentity:26 Account:mamen role: …C26–Tom…
+2023-10-16 23:52:27	_SyncRoleInfo_ToGameServer result is 0 Identity:26 Account:mamen Role: …C26–Tom…
+2023-10-16 23:52:27	ProcessRoleInfo nNextTask: 11  Identity:26 Account:mamen
+2023-10-16 23:52:27	Unlock mamen(null): 1
+2023-10-16 23:52:27	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(25), Role(), Map(0)
+2023-10-16 23:52:30	LoginToMap: Account(tungbach1990), Index(26), IP:125.212.238.136 : 64807
+2023-10-16 23:52:30	ProcessRoleList -> nNextTask(1) m_lnIdentityID 26 m_dwGoddessIdentity:27 Account:tungbach1990
+2023-10-16 23:52:30	ApplyRoleData Identity: 27 Account:tungbach1990 Role:GameMaster2
+2023-10-16 23:52:30	SelAddDelRole -> nNextTask(3) m_lnIdentityID 26, m_dwGoddessIdentity:27 Account:tungbach1990 role: GameMaster2
+2023-10-16 23:52:30	_SyncRoleInfo_ToGameServer result is 0 Identity:27 Account:tungbach1990 Role: GameMaster2
+2023-10-16 23:52:30	ProcessRoleInfo nNextTask: 11  Identity:27 Account:tungbach1990
+2023-10-16 23:52:31	Unlock tungbach1990(null): 1
+2023-10-16 23:52:31	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(26), Role(), Map(0)
+2023-10-16 23:52:36	Gameserver(2) update map ok
+2023-10-16 23:52:37	LoginToMap: Account(mamen), Index(27), IP:14.191.180.126 : 16812
+2023-10-16 23:52:37	ProcessRoleList -> nNextTask(1) m_lnIdentityID 27 m_dwGoddessIdentity:28 Account:mamen
+2023-10-16 23:52:37	ApplyRoleData Identity: 28 Account:mamen Role:…C26–Tom…
+2023-10-16 23:52:37	SelAddDelRole -> nNextTask(3) m_lnIdentityID 27, m_dwGoddessIdentity:28 Account:mamen role: …C26–Tom…
+2023-10-16 23:52:37	_SyncRoleInfo_ToGameServer result is 0 Identity:28 Account:mamen Role: …C26–Tom…
+2023-10-16 23:52:37	ProcessRoleInfo nNextTask: 11  Identity:28 Account:mamen
+2023-10-16 23:52:37	Unlock mamen(null): 1
+2023-10-16 23:52:37	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(27), Role(), Map(0)
+2023-10-16 23:52:38	LoginToMap: Account(tungbach1990), Index(28), IP:125.212.238.136 : 64813
+2023-10-16 23:52:38	ProcessRoleList -> nNextTask(1) m_lnIdentityID 28 m_dwGoddessIdentity:29 Account:tungbach1990
+2023-10-16 23:52:38	ApplyRoleData Identity: 29 Account:tungbach1990 Role:GameMaster2
+2023-10-16 23:52:38	SelAddDelRole -> nNextTask(3) m_lnIdentityID 28, m_dwGoddessIdentity:29 Account:tungbach1990 role: GameMaster2
+2023-10-16 23:52:38	_SyncRoleInfo_ToGameServer result is 0 Identity:29 Account:tungbach1990 Role: GameMaster2
+2023-10-16 23:52:38	ProcessRoleInfo nNextTask: 11  Identity:29 Account:tungbach1990
+2023-10-16 23:52:38	Unlock tungbach1990(null): 1
+2023-10-16 23:52:38	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(28), Role(), Map(0)
+2023-10-16 23:52:39	LoginToMap: Account(tungbach1990), Index(29), IP:125.212.238.136 : 64814
+2023-10-16 23:52:39	ProcessRoleList -> nNextTask(1) m_lnIdentityID 29 m_dwGoddessIdentity:30 Account:tungbach1990
+2023-10-16 23:52:39	ApplyRoleData Identity: 30 Account:tungbach1990 Role:GameMaster2
+2023-10-16 23:52:39	SelAddDelRole -> nNextTask(3) m_lnIdentityID 29, m_dwGoddessIdentity:30 Account:tungbach1990 role: GameMaster2
+2023-10-16 23:52:39	_SyncRoleInfo_ToGameServer result is 0 Identity:30 Account:tungbach1990 Role: GameMaster2
+2023-10-16 23:52:39	ProcessRoleInfo nNextTask: 11  Identity:30 Account:tungbach1990
+2023-10-16 23:52:39	Unlock tungbach1990(null): 1
+2023-10-16 23:52:39	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(29), Role(), Map(0)
+2023-10-16 23:52:47	LoginToMap: Account(mamen), Index(30), IP:14.191.180.126 : 10523
+2023-10-16 23:52:47	ProcessRoleList -> nNextTask(1) m_lnIdentityID 30 m_dwGoddessIdentity:31 Account:mamen
+2023-10-16 23:52:47	ApplyRoleData Identity: 31 Account:mamen Role:…C26–Tom…
+2023-10-16 23:52:47	SelAddDelRole -> nNextTask(3) m_lnIdentityID 30, m_dwGoddessIdentity:31 Account:mamen role: …C26–Tom…
+2023-10-16 23:52:47	set gameServer: -1=>2
+2023-10-16 23:52:47	set role name: =>…C26–Tom…
+2023-10-16 23:52:47	_SyncRoleInfo_ToGameServer result is 1 Identity:31 Account:mamen Role: …C26–Tom…
+2023-10-16 23:52:47	Map changed: 0=>53
+2023-10-16 23:52:47	ProcessRoleInfo nNextTask: 8  Identity:31 Account:mamen
+2023-10-16 23:52:47	GameServer(2) accept account(mamen), Map(53)
+2023-10-16 23:52:47	set status: 1=>2
+2023-10-16 23:52:47	GameServer(127.0.0.1) notify account(mamen) enter gameworld
+2023-10-16 23:52:49	LoginToMap: Account(tungbach1990), Index(31), IP:125.212.238.136 : 64819
+2023-10-16 23:52:49	ProcessRoleList -> nNextTask(1) m_lnIdentityID 31 m_dwGoddessIdentity:32 Account:tungbach1990
+2023-10-16 23:52:49	ApplyRoleData Identity: 32 Account:tungbach1990 Role:GameMaster2
+2023-10-16 23:52:49	SelAddDelRole -> nNextTask(3) m_lnIdentityID 31, m_dwGoddessIdentity:32 Account:tungbach1990 role: GameMaster2
+2023-10-16 23:52:49	set gameServer: -1=>2
+2023-10-16 23:52:49	set role name: =>GameMaster2
+2023-10-16 23:52:49	_SyncRoleInfo_ToGameServer result is 1 Identity:32 Account:tungbach1990 Role: GameMaster2
+2023-10-16 23:52:49	Map changed: 0=>53
+2023-10-16 23:52:49	ProcessRoleInfo nNextTask: 8  Identity:32 Account:tungbach1990
+2023-10-16 23:52:49	GameServer(2) accept account(tungbach1990), Map(53)
+2023-10-16 23:52:49	set status: 1=>2
+2023-10-16 23:52:50	GameServer(127.0.0.1) notify account(tungbach1990) enter gameworld
+2023-10-17 00:42:45	GameServer[2] destroy
+2023-10-17 00:42:45	LogoutFromMap: Account(mamen), GameServer(2), Status(2), PlayrIndex(30), Role(…C26–Tom…), Map(53)
+2023-10-17 00:42:45	LogoutFromMap: Account(tungbach1990), GameServer(2), Status(2), PlayrIndex(31), Role(GameMaster2), Map(53)
+2023-10-17 00:42:50	LoginToMap: Account(tungbach1990), Index(32), IP:125.212.238.136 : 49858
+2023-10-17 00:42:50	ProcessRoleList -> nNextTask(1) m_lnIdentityID 32 m_dwGoddessIdentity:33 Account:tungbach1990
+2023-10-17 00:42:50	ApplyRoleData Identity: 33 Account:tungbach1990 Role:GameMaster2
+2023-10-17 00:42:50	SelAddDelRole -> nNextTask(3) m_lnIdentityID 32, m_dwGoddessIdentity:33 Account:tungbach1990 role: GameMaster2
+2023-10-17 00:42:50	_SyncRoleInfo_ToGameServer result is 0 Identity:33 Account:tungbach1990 Role: GameMaster2
+2023-10-17 00:42:50	ProcessRoleInfo nNextTask: 11  Identity:33 Account:tungbach1990
+2023-10-17 00:42:50	Unlock tungbach1990(null): 1
+2023-10-17 00:42:50	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(32), Role(), Map(0)
+2023-10-17 00:42:53	LoginToMap: Account(mamen), Index(33), IP:14.191.180.126 : 23496
+2023-10-17 00:42:53	ProcessRoleList -> nNextTask(1) m_lnIdentityID 33 m_dwGoddessIdentity:34 Account:mamen
+2023-10-17 00:42:53	ApplyRoleData Identity: 34 Account:mamen Role:…C26–Tom…
+2023-10-17 00:42:53	SelAddDelRole -> nNextTask(3) m_lnIdentityID 33, m_dwGoddessIdentity:34 Account:mamen role: …C26–Tom…
+2023-10-17 00:42:53	_SyncRoleInfo_ToGameServer result is 0 Identity:34 Account:mamen Role: …C26–Tom…
+2023-10-17 00:42:53	ProcessRoleInfo nNextTask: 11  Identity:34 Account:mamen
+2023-10-17 00:42:53	Unlock mamen(null): 1
+2023-10-17 00:42:53	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(33), Role(), Map(0)
+2023-10-17 00:42:56	LoginToMap: Account(tungbach1990), Index(34), IP:125.212.238.136 : 49862
+2023-10-17 00:42:56	ProcessRoleList -> nNextTask(1) m_lnIdentityID 34 m_dwGoddessIdentity:35 Account:tungbach1990
+2023-10-17 00:42:56	ApplyRoleData Identity: 35 Account:tungbach1990 Role:GameMaster2
+2023-10-17 00:42:56	SelAddDelRole -> nNextTask(3) m_lnIdentityID 34, m_dwGoddessIdentity:35 Account:tungbach1990 role: GameMaster2
+2023-10-17 00:42:56	_SyncRoleInfo_ToGameServer result is 0 Identity:35 Account:tungbach1990 Role: GameMaster2
+2023-10-17 00:42:56	ProcessRoleInfo nNextTask: 11  Identity:35 Account:tungbach1990
+2023-10-17 00:42:56	Unlock tungbach1990(null): 1
+2023-10-17 00:42:56	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(34), Role(), Map(0)
+2023-10-17 00:42:58	LoginToMap: Account(mamen), Index(35), IP:14.191.180.126 : 14590
+2023-10-17 00:42:58	ProcessRoleList -> nNextTask(1) m_lnIdentityID 35 m_dwGoddessIdentity:36 Account:mamen
+2023-10-17 00:42:58	ApplyRoleData Identity: 36 Account:mamen Role:…C26–Tom…
+2023-10-17 00:42:58	SelAddDelRole -> nNextTask(3) m_lnIdentityID 35, m_dwGoddessIdentity:36 Account:mamen role: …C26–Tom…
+2023-10-17 00:42:58	_SyncRoleInfo_ToGameServer result is 0 Identity:36 Account:mamen Role: …C26–Tom…
+2023-10-17 00:42:58	ProcessRoleInfo nNextTask: 11  Identity:36 Account:mamen
+2023-10-17 00:42:58	Unlock mamen(null): 1
+2023-10-17 00:42:58	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(35), Role(), Map(0)
+2023-10-17 00:43:01	LoginToMap: Account(tungbach1990), Index(36), IP:125.212.238.136 : 49865
+2023-10-17 00:43:01	ProcessRoleList -> nNextTask(1) m_lnIdentityID 36 m_dwGoddessIdentity:37 Account:tungbach1990
+2023-10-17 00:43:01	ApplyRoleData Identity: 37 Account:tungbach1990 Role:GameMaster2
+2023-10-17 00:43:01	SelAddDelRole -> nNextTask(3) m_lnIdentityID 36, m_dwGoddessIdentity:37 Account:tungbach1990 role: GameMaster2
+2023-10-17 00:43:01	_SyncRoleInfo_ToGameServer result is 0 Identity:37 Account:tungbach1990 Role: GameMaster2
+2023-10-17 00:43:01	ProcessRoleInfo nNextTask: 11  Identity:37 Account:tungbach1990
+2023-10-17 00:43:01	Unlock tungbach1990(null): 1
+2023-10-17 00:43:01	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(36), Role(), Map(0)
+2023-10-17 00:43:03	LoginToMap: Account(mamen), Index(37), IP:14.191.180.126 : 17648
+2023-10-17 00:43:03	ProcessRoleList -> nNextTask(1) m_lnIdentityID 37 m_dwGoddessIdentity:38 Account:mamen
+2023-10-17 00:43:03	ApplyRoleData Identity: 38 Account:mamen Role:…C26–Tom…
+2023-10-17 00:43:03	SelAddDelRole -> nNextTask(3) m_lnIdentityID 37, m_dwGoddessIdentity:38 Account:mamen role: …C26–Tom…
+2023-10-17 00:43:04	_SyncRoleInfo_ToGameServer result is 0 Identity:38 Account:mamen Role: …C26–Tom…
+2023-10-17 00:43:04	ProcessRoleInfo nNextTask: 11  Identity:38 Account:mamen
+2023-10-17 00:43:04	Unlock mamen(null): 1
+2023-10-17 00:43:04	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(37), Role(), Map(0)
+2023-10-17 00:43:06	LoginToMap: Account(tungbach1990), Index(38), IP:125.212.238.136 : 49868
+2023-10-17 00:43:06	ProcessRoleList -> nNextTask(1) m_lnIdentityID 38 m_dwGoddessIdentity:39 Account:tungbach1990
+2023-10-17 00:43:06	ApplyRoleData Identity: 39 Account:tungbach1990 Role:GameMaster2
+2023-10-17 00:43:06	SelAddDelRole -> nNextTask(3) m_lnIdentityID 38, m_dwGoddessIdentity:39 Account:tungbach1990 role: GameMaster2
+2023-10-17 00:43:06	_SyncRoleInfo_ToGameServer result is 0 Identity:39 Account:tungbach1990 Role: GameMaster2
+2023-10-17 00:43:06	ProcessRoleInfo nNextTask: 11  Identity:39 Account:tungbach1990
+2023-10-17 00:43:06	Unlock tungbach1990(null): 1
+2023-10-17 00:43:06	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(38), Role(), Map(0)
+2023-10-17 00:43:09	LoginToMap: Account(mamen), Index(39), IP:14.191.180.126 : 2281
+2023-10-17 00:43:09	ProcessRoleList -> nNextTask(1) m_lnIdentityID 39 m_dwGoddessIdentity:40 Account:mamen
+2023-10-17 00:43:09	ApplyRoleData Identity: 40 Account:mamen Role:…C26–Tom…
+2023-10-17 00:43:09	SelAddDelRole -> nNextTask(3) m_lnIdentityID 39, m_dwGoddessIdentity:40 Account:mamen role: …C26–Tom…
+2023-10-17 00:43:09	_SyncRoleInfo_ToGameServer result is 0 Identity:40 Account:mamen Role: …C26–Tom…
+2023-10-17 00:43:09	ProcessRoleInfo nNextTask: 11  Identity:40 Account:mamen
+2023-10-17 00:43:09	Unlock mamen(null): 1
+2023-10-17 00:43:09	LogoutFromMap: Account(mamen), GameServer(-1), Status(1), PlayrIndex(39), Role(), Map(0)
+2023-10-17 00:43:11	GameServer[3] create: 127.0.0.1 : 46577
+2023-10-17 00:43:16	LoginToMap: Account(tungbach1990), Index(40), IP:125.212.238.136 : 49872
+2023-10-17 00:43:16	ProcessRoleList -> nNextTask(1) m_lnIdentityID 40 m_dwGoddessIdentity:41 Account:tungbach1990
+2023-10-17 00:43:16	ApplyRoleData Identity: 41 Account:tungbach1990 Role:GameMaster2
+2023-10-17 00:43:16	SelAddDelRole -> nNextTask(3) m_lnIdentityID 40, m_dwGoddessIdentity:41 Account:tungbach1990 role: GameMaster2
+2023-10-17 00:43:16	_SyncRoleInfo_ToGameServer result is 0 Identity:41 Account:tungbach1990 Role: GameMaster2
+2023-10-17 00:43:16	ProcessRoleInfo nNextTask: 11  Identity:41 Account:tungbach1990
+2023-10-17 00:43:16	Unlock tungbach1990(null): 1
+2023-10-17 00:43:16	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(40), Role(), Map(0)
+2023-10-17 00:43:26	LoginToMap: Account(tungbach1990), Index(41), IP:125.212.238.136 : 49880
+2023-10-17 00:43:26	ProcessRoleList -> nNextTask(1) m_lnIdentityID 41 m_dwGoddessIdentity:42 Account:tungbach1990
+2023-10-17 00:43:26	ApplyRoleData Identity: 42 Account:tungbach1990 Role:GameMaster2
+2023-10-17 00:43:26	SelAddDelRole -> nNextTask(3) m_lnIdentityID 41, m_dwGoddessIdentity:42 Account:tungbach1990 role: GameMaster2
+2023-10-17 00:43:27	_SyncRoleInfo_ToGameServer result is 0 Identity:42 Account:tungbach1990 Role: GameMaster2
+2023-10-17 00:43:27	ProcessRoleInfo nNextTask: 11  Identity:42 Account:tungbach1990
+2023-10-17 00:43:27	Unlock tungbach1990(null): 1
+2023-10-17 00:43:27	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(41), Role(), Map(0)
+2023-10-17 00:43:37	LoginToMap: Account(tungbach1990), Index(42), IP:125.212.238.136 : 49884
+2023-10-17 00:43:37	ProcessRoleList -> nNextTask(1) m_lnIdentityID 42 m_dwGoddessIdentity:43 Account:tungbach1990
+2023-10-17 00:43:37	ApplyRoleData Identity: 43 Account:tungbach1990 Role:GameMaster2
+2023-10-17 00:43:37	SelAddDelRole -> nNextTask(3) m_lnIdentityID 42, m_dwGoddessIdentity:43 Account:tungbach1990 role: GameMaster2
+2023-10-17 00:43:37	_SyncRoleInfo_ToGameServer result is 0 Identity:43 Account:tungbach1990 Role: GameMaster2
+2023-10-17 00:43:37	ProcessRoleInfo nNextTask: 11  Identity:43 Account:tungbach1990
+2023-10-17 00:43:37	Unlock tungbach1990(null): 1
+2023-10-17 00:43:37	LogoutFromMap: Account(tungbach1990), GameServer(-1), Status(1), PlayrIndex(42), Role(), Map(0)

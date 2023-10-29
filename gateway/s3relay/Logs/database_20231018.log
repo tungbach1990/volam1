@@ -1,0 +1,7 @@
+[2023-10-18 00:56:28]Connect to database[server1] on 127.0.0.1:3306
+[2023-10-18 01:18:19]QueryCount:136, ErrorCount:0
+[2023-10-18 01:18:19]Close database
+[2023-10-18 01:18:31]Connect to database[server1] on 127.0.0.1:3306
+[2023-10-18 01:30:42]QueryCount:128, ErrorCount:0
+[2023-10-18 01:30:42]Close database
+[2023-10-18 01:31:46]Connect to database[server1] on 127.0.0.1:3306

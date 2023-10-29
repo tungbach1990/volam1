@@ -1,0 +1,534 @@
+2023-10-22 00:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 00:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 00:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 00:00:48	[Battle Log] Awarding Activity
+2023-10-22 00:00:48	[Battle Log] Awarding Single Player
+2023-10-22 00:00:48	[Battle Log] Awarding by Result
+2023-10-22 00:00:48	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 00:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 00:00:48	[Battle Log] Ready for kick Out
+2023-10-22 00:00:48	[Battle Log] Ending Misson End
+2023-10-22 00:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 00:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 00:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 00:00:48	[Battle Log] Awarding Activity
+2023-10-22 00:00:48	[Battle Log] Awarding Single Player
+2023-10-22 00:00:48	[Battle Log] Awarding by Result
+2023-10-22 00:00:48	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 00:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 00:00:48	[Battle Log] Ready for kick Out
+2023-10-22 00:00:48	[Battle Log] Ending Misson End
+2023-10-22 00:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 00:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 00:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 00:00:48	[Battle Log] Awarding Activity
+2023-10-22 00:00:48	[Battle Log] Awarding Single Player
+2023-10-22 00:00:48	[Battle Log] Awarding by Result
+2023-10-22 00:00:48	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 00:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 00:00:48	[Battle Log] Ready for kick Out
+2023-10-22 00:00:48	[Battle Log] Ending Misson End
+2023-10-22 08:50:48	Battle Start :1rule16Issue3
+2023-10-22 08:50:48	Battle Start :1rule16Issue3
+2023-10-22 08:50:48	Battle Start :1rule16Issue3
+2023-10-22 09:00:48	marshal battle is entering fight state. now member count=0:0
+2023-10-22 09:00:48	marshal battle is entering fight state. now member count=0:0
+2023-10-22 09:00:48	marshal battle is entering fight state. now member count=0:0
+2023-10-22 09:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1501 Y = 3270
+2023-10-22 09:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1314 Y = 3375
+2023-10-22 09:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1566 Y = 3303
+2023-10-22 09:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1406 Y = 3344
+2023-10-22 09:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1615 Y = 3244
+2023-10-22 09:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1371 Y = 3392
+2023-10-22 09:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1534 Y = 3152
+2023-10-22 09:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1359 Y = 3486
+2023-10-22 09:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1505 Y = 3167
+2023-10-22 09:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1380 Y = 3468
+2023-10-22 09:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1534 Y = 3152
+2023-10-22 09:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1359 Y = 3486
+2023-10-22 09:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1485 Y = 3197
+2023-10-22 09:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1401 Y = 3436
+2023-10-22 09:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-10-22 09:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-10-22 09:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1534 Y = 3152
+2023-10-22 09:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1359 Y = 3486
+2023-10-22 09:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1566 Y = 3303
+2023-10-22 09:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1406 Y = 3344
+2023-10-22 09:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1501 Y = 3270
+2023-10-22 09:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1314 Y = 3375
+2023-10-22 09:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1505 Y = 3167
+2023-10-22 09:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1380 Y = 3468
+2023-10-22 09:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-10-22 09:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-10-22 09:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1501 Y = 3270
+2023-10-22 09:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1314 Y = 3375
+2023-10-22 09:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1566 Y = 3303
+2023-10-22 09:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1406 Y = 3344
+2023-10-22 09:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1505 Y = 3167
+2023-10-22 09:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1380 Y = 3468
+2023-10-22 09:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1485 Y = 3197
+2023-10-22 09:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1401 Y = 3436
+2023-10-22 09:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1501 Y = 3270
+2023-10-22 09:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1314 Y = 3375
+2023-10-22 09:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1505 Y = 3167
+2023-10-22 09:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1380 Y = 3468
+2023-10-22 09:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1566 Y = 3303
+2023-10-22 09:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1406 Y = 3344
+2023-10-22 10:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 10:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 10:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 10:00:48	[Battle Log] Awarding Activity
+2023-10-22 10:00:48	[Battle Log] Awarding Single Player
+2023-10-22 10:00:48	[Battle Log] Awarding by Result
+2023-10-22 10:00:48	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 10:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 10:00:48	[Battle Log] Ready for kick Out
+2023-10-22 10:00:48	[Battle Log] Ending Misson End
+2023-10-22 10:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 10:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 10:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 10:00:48	[Battle Log] Awarding Activity
+2023-10-22 10:00:48	[Battle Log] Awarding Single Player
+2023-10-22 10:00:48	[Battle Log] Awarding by Result
+2023-10-22 10:00:48	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 10:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 10:00:48	[Battle Log] Ready for kick Out
+2023-10-22 10:00:48	[Battle Log] Ending Misson End
+2023-10-22 10:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 10:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 10:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 10:00:48	[Battle Log] Awarding Activity
+2023-10-22 10:00:48	[Battle Log] Awarding Single Player
+2023-10-22 10:00:48	[Battle Log] Awarding by Result
+2023-10-22 10:00:48	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 10:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 10:00:48	[Battle Log] Ready for kick Out
+2023-10-22 10:00:48	[Battle Log] Ending Misson End
+2023-10-22 10:00:48	[CALLBOSS FIXURE]	2023-10-22 10:00:48	BOSS tiÓu Hoµng Kim:LiÔu Thanh Thanh,B¹ch V©n ®éng,57440,103520
+2023-10-22 10:00:48	[CALLBOSS FIXURE]	2023-10-22 10:00:48	BOSS tiÓu Hoµng Kim:DiÖu Nh­ ,ThÇn Tiªn ®éng,57792,103296
+2023-10-22 10:00:48	[CALLBOSS FIXURE]	2023-10-22 10:00:48	BOSS tiÓu Hoµng Kim:Tr­¬ng T«ng ChÝnh,Long Cung ®éng,49376,101536
+2023-10-22 10:50:48	Battle Start :1rule16Issue3
+2023-10-22 10:50:48	Battle Start :1rule16Issue3
+2023-10-22 10:50:48	Battle Start :1rule16Issue3
+2023-10-22 10:56:00	[Thiªn Tr× MËt C¶nh][4tÇng]	2023-10-22 10:56			Boss Hoµng Nhan Qu¶ng D­¬ng ë tÇng 4 Thiªn Tr× MËt C¶nh xuÊt hiÖn.
+2023-10-22 11:00:48	marshal battle is entering fight state. now member count=0:0
+2023-10-22 11:00:48	marshal battle is entering fight state. now member count=0:0
+2023-10-22 11:00:48	marshal battle is entering fight state. now member count=0:0
+2023-10-22 11:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1416 Y = 3402
+2023-10-22 11:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1463 Y = 3240
+2023-10-22 11:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1359 Y = 3486
+2023-10-22 11:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1534 Y = 3152
+2023-10-22 11:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1371 Y = 3392
+2023-10-22 11:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1615 Y = 3244
+2023-10-22 11:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1406 Y = 3344
+2023-10-22 11:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1566 Y = 3303
+2023-10-22 11:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1416 Y = 3402
+2023-10-22 11:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1463 Y = 3240
+2023-10-22 11:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1401 Y = 3436
+2023-10-22 11:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1485 Y = 3197
+2023-10-22 11:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1385 Y = 3368
+2023-10-22 11:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1597 Y = 3281
+2023-10-22 11:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1350 Y = 3342
+2023-10-22 11:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1477 Y = 3295
+2023-10-22 11:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1359 Y = 3486
+2023-10-22 11:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1534 Y = 3152
+2023-10-22 11:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1300 Y = 3400
+2023-10-22 11:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1528 Y = 3317
+2023-10-22 11:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1406 Y = 3344
+2023-10-22 11:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1566 Y = 3303
+2023-10-22 11:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1416 Y = 3402
+2023-10-22 11:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1463 Y = 3240
+2023-10-22 11:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1300 Y = 3400
+2023-10-22 11:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1528 Y = 3317
+2023-10-22 11:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1406 Y = 3344
+2023-10-22 11:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1566 Y = 3303
+2023-10-22 11:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1350 Y = 3342
+2023-10-22 11:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1477 Y = 3295
+2023-10-22 11:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1359 Y = 3486
+2023-10-22 11:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1534 Y = 3152
+2023-10-22 11:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1416 Y = 3402
+2023-10-22 11:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1463 Y = 3240
+2023-10-22 11:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1406 Y = 3344
+2023-10-22 11:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1566 Y = 3303
+2023-10-22 11:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1300 Y = 3400
+2023-10-22 11:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1528 Y = 3317
+2023-10-22 11:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1371 Y = 3392
+2023-10-22 11:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1615 Y = 3244
+2023-10-22 12:00:39	BaiRenLeiTai	CallNPC_GuShou:960,57824,99968
+2023-10-22 12:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 12:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 12:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 12:00:48	[Battle Log] Awarding Activity
+2023-10-22 12:00:48	[Battle Log] Awarding Single Player
+2023-10-22 12:00:48	[Battle Log] Awarding by Result
+2023-10-22 12:00:48	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 12:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 12:00:48	[Battle Log] Ready for kick Out
+2023-10-22 12:00:48	[Battle Log] Ending Misson End
+2023-10-22 12:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 12:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 12:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 12:00:48	[Battle Log] Awarding Activity
+2023-10-22 12:00:48	[Battle Log] Awarding Single Player
+2023-10-22 12:00:48	[Battle Log] Awarding by Result
+2023-10-22 12:00:48	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 12:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 12:00:48	[Battle Log] Ready for kick Out
+2023-10-22 12:00:48	[Battle Log] Ending Misson End
+2023-10-22 12:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 12:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 12:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 12:00:48	[Battle Log] Awarding Activity
+2023-10-22 12:00:48	[Battle Log] Awarding Single Player
+2023-10-22 12:00:48	[Battle Log] Awarding by Result
+2023-10-22 12:00:48	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 12:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 12:00:48	[Battle Log] Ready for kick Out
+2023-10-22 12:00:48	[Battle Log] Ending Misson End
+2023-10-22 12:00:48	12:00,739,95,0,202,1618,2950,V­¬ng T¸ 
+2023-10-22 12:00:48	12:00,1365,95,0,75,1843,3169,HuyÒn Nan §¹i S­
+2023-10-22 12:00:48	12:00,741,95,1,37,1770,3403,§­êng BÊt NhiÔm
+2023-10-22 12:00:48	12:00,742,95,1,198,1687,3025,B¹ch Doanh Doanh
+2023-10-22 12:00:48	12:00,743,95,2,205,1495,3110,Thanh TuyÖt S­ Th¸i
+2023-10-22 12:00:48	12:00,567,95,2,203,1626,3049,Chung Linh Tó 
+2023-10-22 12:00:48	12:00,745,95,3,10,1836,3082,Hµ Nh©n Ng· 
+2023-10-22 12:00:48	12:00,565,95,3,1,1835,3024,§oan Méc DuÖ 
+2023-10-22 12:00:48	12:00,1367,95,4,176,1247,3354,Tõ §¹i Nh¹c
+2023-10-22 12:00:48	12:00,1368,95,4,322,1938,3957,Thanh Liªn Tö
+2023-10-22 12:30:39	BaiRenLeiTai	CallNPC_GuShou:960,57696,98528
+2023-10-22 12:50:48	Battle Start :1rule16Issue3
+2023-10-22 12:50:48	Battle Start :1rule16Issue3
+2023-10-22 12:50:48	Battle Start :1rule16Issue3
+2023-10-22 13:00:39	BaiRenLeiTai	CallNPC_GuShou:960,56512,98624
+2023-10-22 13:00:48	marshal battle is entering fight state. now member count=0:0
+2023-10-22 13:00:48	marshal battle is entering fight state. now member count=0:0
+2023-10-22 13:00:48	marshal battle is entering fight state. now member count=0:0
+2023-10-22 13:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1406 Y = 3344
+2023-10-22 13:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1566 Y = 3303
+2023-10-22 13:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1359 Y = 3486
+2023-10-22 13:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1534 Y = 3152
+2023-10-22 13:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1416 Y = 3402
+2023-10-22 13:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1463 Y = 3240
+2023-10-22 13:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1385 Y = 3368
+2023-10-22 13:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1597 Y = 3281
+2023-10-22 13:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1359 Y = 3486
+2023-10-22 13:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1534 Y = 3152
+2023-10-22 13:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1401 Y = 3436
+2023-10-22 13:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1485 Y = 3197
+2023-10-22 13:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1314 Y = 3375
+2023-10-22 13:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1501 Y = 3270
+2023-10-22 13:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1385 Y = 3368
+2023-10-22 13:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1597 Y = 3281
+2023-10-22 13:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1359 Y = 3486
+2023-10-22 13:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1534 Y = 3152
+2023-10-22 13:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1350 Y = 3342
+2023-10-22 13:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1477 Y = 3295
+2023-10-22 13:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1401 Y = 3436
+2023-10-22 13:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1485 Y = 3197
+2023-10-22 13:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1300 Y = 3400
+2023-10-22 13:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1528 Y = 3317
+2023-10-22 13:30:39	BaiRenLeiTai	CallNPC_GuShou:960,56384,102016
+2023-10-22 13:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1371 Y = 3392
+2023-10-22 13:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1615 Y = 3244
+2023-10-22 13:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1380 Y = 3468
+2023-10-22 13:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1505 Y = 3167
+2023-10-22 13:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1406 Y = 3344
+2023-10-22 13:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1566 Y = 3303
+2023-10-22 13:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1359 Y = 3486
+2023-10-22 13:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1534 Y = 3152
+2023-10-22 13:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1314 Y = 3375
+2023-10-22 13:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1501 Y = 3270
+2023-10-22 13:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1406 Y = 3344
+2023-10-22 13:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1566 Y = 3303
+2023-10-22 13:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1359 Y = 3486
+2023-10-22 13:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1534 Y = 3152
+2023-10-22 13:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1401 Y = 3436
+2023-10-22 13:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1485 Y = 3197
+2023-10-22 14:00:39	BaiRenLeiTai	CallNPC_GuShou:960,59264,100192
+2023-10-22 14:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 14:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 14:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 14:00:48	[Battle Log] Awarding Activity
+2023-10-22 14:00:48	[Battle Log] Awarding Single Player
+2023-10-22 14:00:48	[Battle Log] Awarding by Result
+2023-10-22 14:00:48	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 14:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 14:00:48	[Battle Log] Ready for kick Out
+2023-10-22 14:00:48	[Battle Log] Ending Misson End
+2023-10-22 14:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 14:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 14:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 14:00:48	[Battle Log] Awarding Activity
+2023-10-22 14:00:48	[Battle Log] Awarding Single Player
+2023-10-22 14:00:48	[Battle Log] Awarding by Result
+2023-10-22 14:00:48	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 14:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 14:00:48	[Battle Log] Ready for kick Out
+2023-10-22 14:00:48	[Battle Log] Ending Misson End
+2023-10-22 14:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 14:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 14:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 14:00:48	[Battle Log] Awarding Activity
+2023-10-22 14:00:48	[Battle Log] Awarding Single Player
+2023-10-22 14:00:48	[Battle Log] Awarding by Result
+2023-10-22 14:00:48	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 14:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 14:00:48	[Battle Log] Ready for kick Out
+2023-10-22 14:00:48	[Battle Log] Ending Misson End
+2023-10-22 14:30:39	BaiRenLeiTai	CallNPC_GuShou:960,57888,101152
+2023-10-22 14:50:48	Battle Start :1rule16Issue3
+2023-10-22 14:50:48	Battle Start :1rule16Issue3
+2023-10-22 14:50:48	Battle Start :1rule16Issue3
+2023-10-22 15:00:39	BaiRenLeiTai	CallNPC_GuShou:960,57824,99968
+2023-10-22 15:00:47	marshal battle is entering fight state. now member count=0:0
+2023-10-22 15:00:47	marshal battle is entering fight state. now member count=0:0
+2023-10-22 15:00:47	marshal battle is entering fight state. now member count=0:0
+2023-10-22 15:05:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1350 Y = 3342
+2023-10-22 15:05:47	T¨ng thªm Kim §Æc Th¸m : X = 1477 Y = 3295
+2023-10-22 15:05:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1314 Y = 3375
+2023-10-22 15:05:47	T¨ng thªm Kim §Æc Th¸m : X = 1501 Y = 3270
+2023-10-22 15:05:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1371 Y = 3392
+2023-10-22 15:05:47	T¨ng thªm Kim §Æc Th¸m : X = 1615 Y = 3244
+2023-10-22 15:05:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1380 Y = 3468
+2023-10-22 15:05:47	T¨ng thªm Kim §Æc Th¸m : X = 1505 Y = 3167
+2023-10-22 15:15:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1371 Y = 3392
+2023-10-22 15:15:47	T¨ng thªm Kim §Æc Th¸m : X = 1615 Y = 3244
+2023-10-22 15:15:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1350 Y = 3342
+2023-10-22 15:15:47	T¨ng thªm Kim §Æc Th¸m : X = 1477 Y = 3295
+2023-10-22 15:15:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1416 Y = 3402
+2023-10-22 15:15:47	T¨ng thªm Kim §Æc Th¸m : X = 1463 Y = 3240
+2023-10-22 15:15:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1359 Y = 3486
+2023-10-22 15:15:47	T¨ng thªm Kim §Æc Th¸m : X = 1534 Y = 3152
+2023-10-22 15:25:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1350 Y = 3342
+2023-10-22 15:25:47	T¨ng thªm Kim §Æc Th¸m : X = 1477 Y = 3295
+2023-10-22 15:25:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1371 Y = 3392
+2023-10-22 15:25:47	T¨ng thªm Kim §Æc Th¸m : X = 1615 Y = 3244
+2023-10-22 15:25:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1401 Y = 3436
+2023-10-22 15:25:47	T¨ng thªm Kim §Æc Th¸m : X = 1485 Y = 3197
+2023-10-22 15:25:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1385 Y = 3368
+2023-10-22 15:25:47	T¨ng thªm Kim §Æc Th¸m : X = 1597 Y = 3281
+2023-10-22 15:30:39	BaiRenLeiTai	CallNPC_GuShou:960,56512,98624
+2023-10-22 15:35:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1359 Y = 3486
+2023-10-22 15:35:47	T¨ng thªm Kim §Æc Th¸m : X = 1534 Y = 3152
+2023-10-22 15:35:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1300 Y = 3400
+2023-10-22 15:35:47	T¨ng thªm Kim §Æc Th¸m : X = 1528 Y = 3317
+2023-10-22 15:35:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1406 Y = 3344
+2023-10-22 15:35:47	T¨ng thªm Kim §Æc Th¸m : X = 1566 Y = 3303
+2023-10-22 15:35:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1350 Y = 3342
+2023-10-22 15:35:47	T¨ng thªm Kim §Æc Th¸m : X = 1477 Y = 3295
+2023-10-22 15:45:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1416 Y = 3402
+2023-10-22 15:45:47	T¨ng thªm Kim §Æc Th¸m : X = 1463 Y = 3240
+2023-10-22 15:45:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1359 Y = 3486
+2023-10-22 15:45:47	T¨ng thªm Kim §Æc Th¸m : X = 1534 Y = 3152
+2023-10-22 15:45:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1385 Y = 3368
+2023-10-22 15:45:47	T¨ng thªm Kim §Æc Th¸m : X = 1597 Y = 3281
+2023-10-22 15:45:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1314 Y = 3375
+2023-10-22 15:45:47	T¨ng thªm Kim §Æc Th¸m : X = 1501 Y = 3270
+2023-10-22 16:00:39	BaiRenLeiTai	CallNPC_GuShou:960,57824,99968
+2023-10-22 16:00:47	[Battle Log] Ending Misson Begin
+2023-10-22 16:00:47	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 16:00:47	[Battle Log] Sorting World Ladder
+2023-10-22 16:00:47	[Battle Log] Awarding Activity
+2023-10-22 16:00:47	[Battle Log] Awarding Single Player
+2023-10-22 16:00:47	[Battle Log] Awarding by Result
+2023-10-22 16:00:47	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 16:00:47	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 16:00:47	[Battle Log] Ready for kick Out
+2023-10-22 16:00:47	[Battle Log] Ending Misson End
+2023-10-22 16:00:47	[Battle Log] Ending Misson Begin
+2023-10-22 16:00:47	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 16:00:47	[Battle Log] Sorting World Ladder
+2023-10-22 16:00:47	[Battle Log] Awarding Activity
+2023-10-22 16:00:47	[Battle Log] Awarding Single Player
+2023-10-22 16:00:47	[Battle Log] Awarding by Result
+2023-10-22 16:00:47	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 16:00:47	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 16:00:47	[Battle Log] Ready for kick Out
+2023-10-22 16:00:47	[Battle Log] Ending Misson End
+2023-10-22 16:00:47	[Battle Log] Ending Misson Begin
+2023-10-22 16:00:47	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 16:00:47	[Battle Log] Sorting World Ladder
+2023-10-22 16:00:47	[Battle Log] Awarding Activity
+2023-10-22 16:00:47	[Battle Log] Awarding Single Player
+2023-10-22 16:00:47	[Battle Log] Awarding by Result
+2023-10-22 16:00:47	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 16:00:47	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 16:00:47	[Battle Log] Ready for kick Out
+2023-10-22 16:00:47	[Battle Log] Ending Misson End
+2023-10-22 16:00:48	[CALLBOSS FIXURE]	2023-10-22 16:00:48	BOSS tiÓu Hoµng Kim:LiÔu Thanh Thanh,Kinh Hoµng ®éng,49504,106624
+2023-10-22 16:00:48	[CALLBOSS FIXURE]	2023-10-22 16:00:48	BOSS tiÓu Hoµng Kim:DiÖu Nh­ ,Phôc L­u ®éng,48896,102336
+2023-10-22 16:00:48	[CALLBOSS FIXURE]	2023-10-22 16:00:48	BOSS tiÓu Hoµng Kim:Tr­¬ng T«ng ChÝnh,NghiÖt Long ®éng,70272,112160
+2023-10-22 16:30:39	BaiRenLeiTai	CallNPC_GuShou:960,55840,100384
+2023-10-22 16:50:48	Battle Start :1rule16Issue3
+2023-10-22 16:50:48	Battle Start :1rule16Issue3
+2023-10-22 16:50:48	Battle Start :1rule16Issue3
+2023-10-22 17:00:39	BaiRenLeiTai	CallNPC_GuShou:960,54752,98048
+2023-10-22 17:00:47	marshal battle is entering fight state. now member count=0:0
+2023-10-22 17:00:47	marshal battle is entering fight state. now member count=0:0
+2023-10-22 17:00:47	marshal battle is entering fight state. now member count=0:0
+2023-10-22 17:05:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-10-22 17:05:47	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-10-22 17:05:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1501 Y = 3270
+2023-10-22 17:05:47	T¨ng thªm Kim §Æc Th¸m : X = 1314 Y = 3375
+2023-10-22 17:05:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1505 Y = 3167
+2023-10-22 17:05:47	T¨ng thªm Kim §Æc Th¸m : X = 1380 Y = 3468
+2023-10-22 17:05:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1597 Y = 3281
+2023-10-22 17:05:47	T¨ng thªm Kim §Æc Th¸m : X = 1385 Y = 3368
+2023-10-22 17:15:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1501 Y = 3270
+2023-10-22 17:15:47	T¨ng thªm Kim §Æc Th¸m : X = 1314 Y = 3375
+2023-10-22 17:15:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1505 Y = 3167
+2023-10-22 17:15:47	T¨ng thªm Kim §Æc Th¸m : X = 1380 Y = 3468
+2023-10-22 17:15:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1477 Y = 3295
+2023-10-22 17:15:47	T¨ng thªm Kim §Æc Th¸m : X = 1350 Y = 3342
+2023-10-22 17:15:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-10-22 17:15:47	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-10-22 17:25:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1463 Y = 3240
+2023-10-22 17:25:47	T¨ng thªm Kim §Æc Th¸m : X = 1416 Y = 3402
+2023-10-22 17:25:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-10-22 17:25:47	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-10-22 17:25:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1501 Y = 3270
+2023-10-22 17:25:47	T¨ng thªm Kim §Æc Th¸m : X = 1314 Y = 3375
+2023-10-22 17:25:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1477 Y = 3295
+2023-10-22 17:25:47	T¨ng thªm Kim §Æc Th¸m : X = 1350 Y = 3342
+2023-10-22 17:30:39	BaiRenLeiTai	CallNPC_GuShou:960,57824,99968
+2023-10-22 17:35:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1501 Y = 3270
+2023-10-22 17:35:47	T¨ng thªm Kim §Æc Th¸m : X = 1314 Y = 3375
+2023-10-22 17:35:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1477 Y = 3295
+2023-10-22 17:35:47	T¨ng thªm Kim §Æc Th¸m : X = 1350 Y = 3342
+2023-10-22 17:35:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1615 Y = 3244
+2023-10-22 17:35:47	T¨ng thªm Kim §Æc Th¸m : X = 1371 Y = 3392
+2023-10-22 17:35:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-10-22 17:35:47	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-10-22 17:45:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1463 Y = 3240
+2023-10-22 17:45:47	T¨ng thªm Kim §Æc Th¸m : X = 1416 Y = 3402
+2023-10-22 17:45:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-10-22 17:45:47	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-10-22 17:45:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1477 Y = 3295
+2023-10-22 17:45:47	T¨ng thªm Kim §Æc Th¸m : X = 1350 Y = 3342
+2023-10-22 17:45:47	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1501 Y = 3270
+2023-10-22 17:45:47	T¨ng thªm Kim §Æc Th¸m : X = 1314 Y = 3375
+2023-10-22 18:00:39	BaiRenLeiTai	CallNPC_GuShou:960,59264,100192
+2023-10-22 18:00:47	[Battle Log] Ending Misson Begin
+2023-10-22 18:00:47	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 18:00:47	[Battle Log] Sorting World Ladder
+2023-10-22 18:00:47	[Battle Log] Awarding Activity
+2023-10-22 18:00:47	[Battle Log] Awarding Single Player
+2023-10-22 18:00:47	[Battle Log] Awarding by Result
+2023-10-22 18:00:47	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 18:00:47	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 18:00:47	[Battle Log] Ready for kick Out
+2023-10-22 18:00:47	[Battle Log] Ending Misson End
+2023-10-22 18:00:47	[Battle Log] Ending Misson Begin
+2023-10-22 18:00:47	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 18:00:47	[Battle Log] Sorting World Ladder
+2023-10-22 18:00:47	[Battle Log] Awarding Activity
+2023-10-22 18:00:47	[Battle Log] Awarding Single Player
+2023-10-22 18:00:47	[Battle Log] Awarding by Result
+2023-10-22 18:00:47	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 18:00:47	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 18:00:47	[Battle Log] Ready for kick Out
+2023-10-22 18:00:47	[Battle Log] Ending Misson End
+2023-10-22 18:00:47	[Battle Log] Ending Misson Begin
+2023-10-22 18:00:47	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 18:00:47	[Battle Log] Sorting World Ladder
+2023-10-22 18:00:47	[Battle Log] Awarding Activity
+2023-10-22 18:00:47	[Battle Log] Awarding Single Player
+2023-10-22 18:00:47	[Battle Log] Awarding by Result
+2023-10-22 18:00:47	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 18:00:47	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 18:00:47	[Battle Log] Ready for kick Out
+2023-10-22 18:00:47	[Battle Log] Ending Misson End
+2023-10-22 18:30:39	BaiRenLeiTai	CallNPC_GuShou:960,57888,101152
+2023-10-22 18:50:48	Battle Start :1rule16Issue3
+2023-10-22 18:50:48	Battle Start :1rule16Issue3
+2023-10-22 18:50:48	Battle Start :1rule16Issue3
+2023-10-22 19:00:39	BaiRenLeiTai	CallNPC_GuShou:960,56384,99968
+2023-10-22 19:00:48	marshal battle is entering fight state. now member count=0:0
+2023-10-22 19:00:48	marshal battle is entering fight state. now member count=0:0
+2023-10-22 19:00:48	marshal battle is entering fight state. now member count=0:0
+2023-10-22 19:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-10-22 19:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-10-22 19:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1477 Y = 3295
+2023-10-22 19:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1350 Y = 3342
+2023-10-22 19:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1534 Y = 3152
+2023-10-22 19:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1359 Y = 3486
+2023-10-22 19:05:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1485 Y = 3197
+2023-10-22 19:05:48	T¨ng thªm Kim §Æc Th¸m : X = 1401 Y = 3436
+2023-10-22 19:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1501 Y = 3270
+2023-10-22 19:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1314 Y = 3375
+2023-10-22 19:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-10-22 19:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-10-22 19:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1534 Y = 3152
+2023-10-22 19:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1359 Y = 3486
+2023-10-22 19:15:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1463 Y = 3240
+2023-10-22 19:15:48	T¨ng thªm Kim §Æc Th¸m : X = 1416 Y = 3402
+2023-10-22 19:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1566 Y = 3303
+2023-10-22 19:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1406 Y = 3344
+2023-10-22 19:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1615 Y = 3244
+2023-10-22 19:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1371 Y = 3392
+2023-10-22 19:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1485 Y = 3197
+2023-10-22 19:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1401 Y = 3436
+2023-10-22 19:25:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1597 Y = 3281
+2023-10-22 19:25:48	T¨ng thªm Kim §Æc Th¸m : X = 1385 Y = 3368
+2023-10-22 19:30:39	BaiRenLeiTai	CallNPC_GuShou:960,57888,101152
+2023-10-22 19:30:48	19:30,566,95,0,176,1754,2805,Cæ B¸ch
+2023-10-22 19:30:48	19:30,740,95,0,198,1687,3025,HuyÒn Gi¸c §¹i S­ 
+2023-10-22 19:30:48	19:30,1366,95,1,75,1843,3169,§­êng Phi YÕn
+2023-10-22 19:30:48	19:30,582,95,1,199,1445,2959,Lam Y Y
+2023-10-22 19:30:48	19:30,568,95,2,80,1538,3041,Hµ Linh Phiªu
+2023-10-22 19:30:48	19:30,744,95,2,227,1658,3050,Yªn HiÓu Tr¸i
+2023-10-22 19:30:48	19:30,583,95,3,226,1789,3050,M¹nh Th­¬ng L­¬ng
+2023-10-22 19:30:48	19:30,563,95,3,205,1585,3226,Gia LuËt TÞ Ly
+2023-10-22 19:30:48	19:30,562,95,4,321,1474,3008,§¹o Thanh Ch©n Nh©n
+2023-10-22 19:30:48	19:30,747,95,4,204,1527,3529,TuyÒn C¬ Tö 
+2023-10-22 19:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1501 Y = 3270
+2023-10-22 19:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1314 Y = 3375
+2023-10-22 19:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1566 Y = 3303
+2023-10-22 19:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1406 Y = 3344
+2023-10-22 19:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-10-22 19:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-10-22 19:35:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1597 Y = 3281
+2023-10-22 19:35:48	T¨ng thªm Kim §Æc Th¸m : X = 1385 Y = 3368
+2023-10-22 19:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1528 Y = 3317
+2023-10-22 19:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1300 Y = 3400
+2023-10-22 19:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1505 Y = 3167
+2023-10-22 19:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1380 Y = 3468
+2023-10-22 19:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1485 Y = 3197
+2023-10-22 19:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1401 Y = 3436
+2023-10-22 19:45:48	T¨ng thªm Tèng Kim §Æc Th¸m: X = 1463 Y = 3240
+2023-10-22 19:45:48	T¨ng thªm Kim §Æc Th¸m : X = 1416 Y = 3402
+2023-10-22 20:00:39	BaiRenLeiTai	CallNPC_GuShou:960,55840,100384
+2023-10-22 20:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 20:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 20:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 20:00:48	[Battle Log] Awarding Activity
+2023-10-22 20:00:48	[Battle Log] Awarding Single Player
+2023-10-22 20:00:48	[Battle Log] Awarding by Result
+2023-10-22 20:00:48	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 20:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 20:00:48	[Battle Log] Ready for kick Out
+2023-10-22 20:00:48	[Battle Log] Ending Misson End
+2023-10-22 20:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 20:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 20:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 20:00:48	[Battle Log] Awarding Activity
+2023-10-22 20:00:48	[Battle Log] Awarding Single Player
+2023-10-22 20:00:48	[Battle Log] Awarding by Result
+2023-10-22 20:00:48	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 20:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 20:00:48	[Battle Log] Ready for kick Out
+2023-10-22 20:00:48	[Battle Log] Ending Misson End
+2023-10-22 20:00:48	[Battle Log] Ending Misson Begin
+2023-10-22 20:00:48	[Battle Log] battle is ending. now member count=0:0
+2023-10-22 20:00:48	[Battle Log] Sorting World Ladder
+2023-10-22 20:00:48	[Battle Log] Awarding Activity
+2023-10-22 20:00:48	[Battle Log] Awarding Single Player
+2023-10-22 20:00:48	[Battle Log] Awarding by Result
+2023-10-22 20:00:48	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2023-10-22 20:00:48	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2023-10-22 20:00:48	[Battle Log] Ready for kick Out
+2023-10-22 20:00:48	[Battle Log] Ending Misson End
+2023-10-22 20:30:39	BaiRenLeiTai	CallNPC_GuShou:960,56384,102016
+2023-10-22 20:50:48	Battle Start :1rule16Issue3
+2023-10-22 20:50:48	Battle Start :1rule16Issue3
+2023-10-22 20:50:48	Battle Start :1rule16Issue3

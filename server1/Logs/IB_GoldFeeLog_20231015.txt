@@ -1,0 +1,71 @@
+  c                    	[2023-10-15 13:08:20]	[SUCCESS]	[ACC]	mamen	[ROLE]	C26ŸMaMen	[C]	200	[COUNT]	1	[BUY]	[6-1-2219-1]Cµn kh´n song tuy÷t BÈi	[PLACE]	139
+  c                    	[2023-10-15 13:14:13]	[SUCCESS]	[ACC]	mamen	[ROLE]	C26ŸMaMen	[C]	10	[COUNT]	1	[BUY]	[6-1-2218-1]HÂng ∂nh B∂o R≠¨ng	[PLACE]	139
+  c                    	[2023-10-15 13:15:56]	[SUCCESS]	[ACC]	mamen	[ROLE]	C26ŸMaMen	[C]	500	[COUNT]	1	[BUY]	[6-1-4048-1]MÀt Tﬁch Thi™n Cang Kh› K›nh	[PLACE]	140
+  c                    	[2023-10-15 13:16:23]	[SUCCESS]	[ACC]	mamen	[ROLE]	C26ŸMaMen	[C]	500	[COUNT]	1	[BUY]	[6-1-4046-1]MÀt Tﬁch Li÷t H·a Ph…n Thi™n	[PLACE]	140
+  c                    	[2023-10-15 20:39:20]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	1	[COUNT]	1	[BUY]	[6-1-3085-1]L÷nh bµi Boss - MÈ Dung Toµn	[PLACE]	142
+  c                    	[2023-10-15 20:39:22]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	1	[COUNT]	1	[BUY]	[6-1-3084-1]L÷nh bµi Boss - Kim Th› L≠Óng	[PLACE]	142
+  c                    	[2023-10-15 20:39:24]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	1	[COUNT]	1	[BUY]	[6-1-3083-1]L÷nh bµi Boss - Tr≠¨ng Tuy™n	[PLACE]	142
+  c                    	[2023-10-15 20:39:26]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	142
+  c                    	[2023-10-15 20:39:26]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	142
+  c                    	[2023-10-15 20:39:26]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	142
+  c                    	[2023-10-15 20:39:26]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	142
+  c                    	[2023-10-15 20:39:26]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	142
+  c                    	[2023-10-15 20:39:26]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	142
+  c                    	[2023-10-15 20:39:26]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	142
+  c                    	[2023-10-15 20:39:26]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	142
+  c                    	[2023-10-15 20:39:26]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	142
+  c                    	[2023-10-15 20:39:26]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	142
+  c                    	[2023-10-15 21:32:05]	[SUCCESS]	[ACC]	mamen	[ROLE]	124124	[C]	10	[COUNT]	1	[BUY]	[6-1-2218-1]HÂng ∂nh B∂o R≠¨ng	[PLACE]	139
+  c                    	[2023-10-15 21:51:03]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:01]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:19]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:19]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:19]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:19]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:19]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:19]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:19]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:19]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:19]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:19]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:20]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:20]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:20]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:20]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:20]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:20]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:20]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:20]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:20]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:20]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:20]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:21]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:21]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:21]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:21]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:21]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:21]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:21]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:21]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:21]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:21]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:21]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:21]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:22]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:22]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:22]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:22]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:22]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:22]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:22]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:22]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:22]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:22]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:23]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:23]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:23]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:23]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:23]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:23]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:52:23]	[SUCCESS]	[ACC]	quangmd	[ROLE]	NMVipPro	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c                    	[2023-10-15 21:55:48]	[SUCCESS]	[ACC]	mamen	[ROLE]	ùÖMañMenÖù	[C]	100	[COUNT]	1	[BUY]	[6-1-1670-1]T›n vÀt m´n ph∏i	[PLACE]	139

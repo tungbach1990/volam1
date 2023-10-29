@@ -1,0 +1,2 @@
+2023-10-16 00:00:31	(INF)	mod:TONG	act:maintain	tong:N¸t	membercount:1	day:1	retirecount:0	buildlevel:0	buildfund:0	warbuildfund:0	storedoffer:0	executor:
+2023-10-16 00:00:31	(INF)	mod:TONG	act:weeklymaintain	tong:N¸t	membercount:1	weekbuildfund:0	buildfund:0	storedoffer:0	week:2	weekgoalvalue:0	retirecount:0	weekgoaltotal:0	warbuildfund:0	buildlevel:0	executor:

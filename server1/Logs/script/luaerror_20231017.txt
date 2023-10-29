@@ -1,0 +1,35 @@
+[2023-10-17 00:47:04] error: attempt to call global `check_zhuansheng_league' (a nil value)
+stack traceback:
+   1[154]:  function `toushiCheckTransFactState' at line 76 [string "\script\misc\daiyitoushi\toushi_function.lu..."]
+   2[151]:  function `toushiTransSure' at line 277 [string "\script\misc\daiyitoushi\toushi_function.lu..."]
+   3[150]:  main of string "?" at line 1
+
+[2023-10-17 00:47:14] error: attempt to call global `check_zhuansheng_league' (a nil value)
+stack traceback:
+   1[154]:  function `toushiCheckTransFactState' at line 76 [string "\script\misc\daiyitoushi\toushi_function.lu..."]
+   2[151]:  function `toushiTransSure' at line 277 [string "\script\misc\daiyitoushi\toushi_function.lu..."]
+   3[150]:  main of string "?" at line 1
+
+[2023-10-17 00:47:24] error: attempt to call global `check_zhuansheng_league' (a nil value)
+stack traceback:
+   1[154]:  function `toushiCheckTransFactState' at line 76 [string "\script\misc\daiyitoushi\toushi_function.lu..."]
+   2[151]:  function `toushiTransSure' at line 277 [string "\script\misc\daiyitoushi\toushi_function.lu..."]
+   3[150]:  main of string "?" at line 1
+
+[2023-10-17 11:42:13] error: `for' limit must be a number
+stack traceback:
+   1[153]:  function `AddDSGold' at line 120 [file `...cript/global/pgaming/item/lenhbaitestserver.lua']
+   2[150]:  function `g_AskClientStringBackEx' at line 77 [string "\script\dailogsys\dailogsay.lua"]
+
+[2023-10-17 11:48:40] error: attempt to call global `check_zhuansheng_league' (a nil value)
+stack traceback:
+   1[154]:  function `toushiCheckTransFactState' at line 76 [string "\script\misc\daiyitoushi\toushi_function.lu..."]
+   2[151]:  function `toushiTransSure' at line 277 [string "\script\misc\daiyitoushi\toushi_function.lu..."]
+   3[150]:  main of string "?" at line 1
+
+[2023-10-17 11:48:46] error: attempt to call global `check_zhuansheng_league' (a nil value)
+stack traceback:
+   1[154]:  function `toushiCheckTransFactState' at line 76 [string "\script\misc\daiyitoushi\toushi_function.lu..."]
+   2[151]:  function `toushiTransSure' at line 277 [string "\script\misc\daiyitoushi\toushi_function.lu..."]
+   3[150]:  main of string "?" at line 1
+

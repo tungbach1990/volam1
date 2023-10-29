@@ -1,0 +1,28 @@
+Account	RoleName	Faction	Level	Money	TranLifeCount	WllsHonor	Energy	PetName	PetLevel	ChanNguyenCount	DocMach	NhamMach	XungMach	DoiMach	AmDuyMach	DuongDuyMach	AmKhieuMach	DuongKhieuMach
+pgaming1	KingOfTheWorld	Begin	160	10649401	3	0	0		0	425600	16	16	12	2	0	0	0	0
+pgaming1	KingOfTheWorld	Begin	160	10649401
+pgaming1	Oliver	ShaoLin	200	44336278	6	0	0		0	80800	10	0	0	0	0	0	0	0
+pgaming1	Oliver	ShaoLin	200	44336278
+tramy	meomeo	KunLun	160	35928743	1	0	0		0	109640	16	16	16	16	16	16	14	14
+tramy	meomeo	KunLun	160	35928743
+pgaming1	DrMagic	ShaoLin	39	10218325	0	0	0		0	1000	0	0	0	0	0	0	0	0
+pgaming1	DrMagic	ShaoLin	39	10218325
+thinh1	United	Begin	120	149994	3	0	0		0	0	0	0	0	0	0	0	0	0
+thinh1	TrungSinh	Begin	10	0	6	0	0		0	0	0	0	0	0	0	0	0	0
+thinh1	FireStorm	Begin	163	15802345	1	0	0		0	52785	16	16	16	16	16	0	16	15
+thinh1	FireStorm	Begin	163	15802345
+thinh2	Tr≠¨ngV´Kﬁ	WuDang	123	249400	0	0	0		0	0	0	0	0	0	0	0	0	0
+huyvnn	MinhGiao	WuDang	200	0	3	0	0		0	100000	0	0	0	0	0	0	0	0
+eurofun	HÈiQu∏nV‚L©m	Begin	120	4080	0	0	0		0	0	0	0	0	0	0	0	0	0
+test01	V‚L©mQu∏n	Begin	120	28	0	0	0		0	0	0	0	0	0	0	0	0	0
+mamen	ùÖMañMenÖù	TianRen	120	1303823	6	0	0		0	523100	16	12	0	0	0	0	0	0
+quangmd	QMDDepZai	Begin	200	0	6	0	0		0	0	0	0	0	0	0	0	0	0
+quangmd	NMVipPro	EMei	200	10050170	6	0	0		0	1348600	16	16	16	16	16	16	16	16
+quangmd	NMVipPro	EMei	200	10050170
+mamen	ùÖC26ñTomÖù	ShaoLin	125	16300491	0	0	0		0	1203400	16	16	16	16	16	16	16	16
+mamen	ùÖC26ñTomÖù	ShaoLin	125	16300491
+tungbach1990	GameMaster2	WuDu	39	2711332	0	0	0		0	0	0	0	0	0	0	0	0	0
+mamen	ùÖñTomÖù	TianRen	123	10657741	0	0	0		0	1210400	16	16	16	16	16	16	16	16
+mamen	ùÖñTomÖù	TianRen	123	10657741
+mamen1	NMCNMC	EMei	120	1000000	0	0	0		0	0	0	0	0	0	0	0	0	0
+==Output Finish==

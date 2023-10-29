@@ -1,0 +1,12 @@
+[2023-10-16 23:10:45] error: attempt to index a nil value
+stack traceback:
+   1[159]:  function `main' at line 30 [string "/script/global/translife.lua"]
+   2[157]:  function `ST_DoTransLife' [C]
+   3[150]:  function `TrungSinh' at line 292 [file `script/global/eurofun/npc/npc_thunghiem.lua']
+
+[2023-10-16 23:10:45] error: attempt to index a nil value
+stack traceback:
+   1[159]:  function `main' at line 30 [string "/script/global/translife.lua"]
+   2[157]:  function `ST_DoTransLife' [C]
+   3[150]:  function `TrungSinh' at line 292 [file `script/global/eurofun/npc/npc_thunghiem.lua']
+

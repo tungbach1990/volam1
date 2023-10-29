@@ -1,0 +1,306 @@
+2023-10-18 00:35:15	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42732)
+2023-10-18 00:35:15	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 00:35:15	EnterGame(GameMaster2) OK: Move from Node[0] to Node[5]
+2023-10-18 00:37:54	QuitSave[GameMaster2] OK: Leave Node[5]
+2023-10-18 00:37:54	SaveRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 00:43:59	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42732)
+2023-10-18 00:43:59	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 00:43:59	EnterGame(GameMaster2) OK: Move from Node[0] to Node[5]
+2023-10-18 00:44:22	QuitSave[GameMaster2] OK: Leave Node[5]
+2023-10-18 00:44:22	SaveRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 00:56:04	Node[0] disconnect: Ip(127.0.0.1 : 42732), Identity(0)
+2023-10-18 00:56:04	ClientConnectClose:[0]
+
+2023-10-18 00:56:09	Node[5] disconnect: Ip(127.0.0.1 : 60597), Identity(4)
+2023-10-18 00:56:09	ClientConnectClose:[5]
+
+2023-10-18 00:56:09	[QuitBackup]is_quit:1
+2023-10-18 00:56:24	Node[0] connect: Ip(127.0.0.1 : 42745), Identity(0)
+2023-10-18 00:56:24	ClientConnectCreate:[0]127.0.0.1 : 42745
+2023-10-18 00:56:24	Bishop claim from Node[0]!
+2023-10-18 00:56:52	Node[1] connect: Ip(127.0.0.1 : 38604), Identity(1)
+2023-10-18 00:56:52	ClientConnectCreate:[1]127.0.0.1 : 38604
+2023-10-18 00:59:02	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42745)
+2023-10-18 00:59:02	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 00:59:02	EnterGame(GameMaster2) OK: Move from Node[0] to Node[1]
+2023-10-18 01:12:12	QuitSave[GameMaster2] OK: Leave Node[1]
+2023-10-18 01:12:12	SaveRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:12:16	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42745)
+2023-10-18 01:12:16	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:12:16	EnterGame(GameMaster2) OK: Move from Node[0] to Node[1]
+2023-10-18 01:12:19	QuitSave[GameMaster2] OK: Leave Node[1]
+2023-10-18 01:12:19	SaveRoleData(GameMaster2) OK: datalen(2492)
+2023-10-18 01:12:28	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42745)
+2023-10-18 01:12:28	GetRoleData(GameMaster2) OK: datalen(2492)
+2023-10-18 01:12:28	EnterGame(GameMaster2) OK: Move from Node[0] to Node[1]
+2023-10-18 01:12:34	QuitSave[GameMaster2] OK: Leave Node[1]
+2023-10-18 01:12:34	SaveRoleData(GameMaster2) OK: datalen(2492)
+2023-10-18 01:13:57	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42745)
+2023-10-18 01:13:57	GetRoleData(GameMaster2) OK: datalen(2492)
+2023-10-18 01:13:57	EnterGame(GameMaster2) OK: Move from Node[0] to Node[1]
+2023-10-18 01:14:08	QuitSave[GameMaster2] OK: Leave Node[1]
+2023-10-18 01:14:08	SaveRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:14:17	Node[1] disconnect: Ip(127.0.0.1 : 38604), Identity(1)
+2023-10-18 01:14:17	ClientConnectClose:[1]
+
+2023-10-18 01:14:38	Node[2] connect: Ip(127.0.0.1 : 32867), Identity(2)
+2023-10-18 01:14:38	ClientConnectCreate:[2]127.0.0.1 : 32867
+2023-10-18 01:15:08	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42745)
+2023-10-18 01:15:08	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:15:08	EnterGame(GameMaster2) OK: Move from Node[0] to Node[2]
+2023-10-18 01:18:11	[QuitBackup]is_quit:1
+2023-10-18 01:18:27	Node[0] connect: Ip(127.0.0.1 : 42750), Identity(0)
+2023-10-18 01:18:27	ClientConnectCreate:[0]127.0.0.1 : 42750
+2023-10-18 01:18:27	Bishop claim from Node[0]!
+2023-10-18 01:18:32	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:18:32	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:18:32	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:18:37	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:18:37	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:18:37	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:18:43	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:18:43	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:18:43	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:18:48	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:18:48	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:18:48	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:18:57	Node[1] connect: Ip(127.0.0.1 : 37736), Identity(1)
+2023-10-18 01:18:57	ClientConnectCreate:[1]127.0.0.1 : 37736
+2023-10-18 01:18:58	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:18:58	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:18:58	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:19:08	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:19:08	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:19:08	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:19:18	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:19:18	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:19:18	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:19:29	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:19:29	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:19:29	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:19:35	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:19:35	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:19:35	EnterGame(GameMaster2) OK: Move from Node[0] to Node[1]
+2023-10-18 01:26:30	QuitSave[GameMaster2] OK: Leave Node[1]
+2023-10-18 01:26:30	SaveRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:26:33	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:26:33	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:26:33	EnterGame(GameMaster2) OK: Move from Node[0] to Node[1]
+2023-10-18 01:26:47	Node[1] disconnect: Ip(127.0.0.1 : 37736), Identity(1)
+2023-10-18 01:26:47	Clear role in Node[1]: GameMaster2
+2023-10-18 01:26:47	ClientConnectClose:[1]
+
+2023-10-18 01:26:53	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:26:53	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:26:53	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:26:58	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:26:58	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:26:58	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:27:03	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:27:03	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:27:03	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:27:08	Node[2] connect: Ip(127.0.0.1 : 45441), Identity(2)
+2023-10-18 01:27:08	ClientConnectCreate:[2]127.0.0.1 : 45441
+2023-10-18 01:27:08	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:27:08	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:27:08	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:27:18	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:27:18	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:27:18	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:27:28	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:27:28	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:27:28	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:27:39	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:27:39	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:27:39	EnterGame(GameMaster2) OK: Move from Node[0] to Node[2]
+2023-10-18 01:29:10	QuitSave[GameMaster2] OK: Leave Node[2]
+2023-10-18 01:29:10	SaveRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:29:20	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:29:20	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:29:20	EnterGame(GameMaster2) OK: Move from Node[0] to Node[2]
+2023-10-18 01:30:36	Node[2] disconnect: Ip(127.0.0.1 : 45441), Identity(2)
+2023-10-18 01:30:36	Clear role in Node[2]: GameMaster2
+2023-10-18 01:30:36	ClientConnectClose:[2]
+
+2023-10-18 01:30:44	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 42750)
+2023-10-18 01:30:44	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:30:44	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:31:53	Node[0] connect: Ip(127.0.0.1 : 39204), Identity(0)
+2023-10-18 01:31:53	ClientConnectCreate:[0]127.0.0.1 : 39204
+2023-10-18 01:31:53	Bishop claim from Node[0]!
+2023-10-18 01:31:46	Deliver statdata: 0 bytes
+2023-10-18 01:31:46	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 01:31:46	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:31:46	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:31:56	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 01:31:56	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:31:56	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:32:06	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 01:32:06	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:32:06	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:32:17	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 01:32:17	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:32:17	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:32:17	Node[1] connect: Ip(127.0.0.1 : 50979), Identity(1)
+2023-10-18 01:32:17	ClientConnectCreate:[1]127.0.0.1 : 50979
+2023-10-18 01:32:26	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 01:32:26	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:32:26	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:32:37	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 01:32:37	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:32:37	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:32:47	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 01:32:47	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:32:47	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:32:57	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 01:32:57	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:32:57	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 01:33:07	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 01:33:07	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 01:33:08	EnterGame(GameMaster2) OK: Move from Node[0] to Node[1]
+2023-10-18 02:05:59	SaveRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 02:32:28	QuitSave[GameMaster2] OK: Leave Node[1]
+2023-10-18 02:32:28	SaveRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 02:33:07	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 02:33:07	GetRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 02:33:07	EnterGame(GameMaster2) OK: Move from Node[0] to Node[1]
+2023-10-18 02:41:59	QuitSave[GameMaster2] OK: Leave Node[1]
+2023-10-18 02:41:59	SaveRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 02:42:02	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 02:42:02	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 02:42:02	EnterGame(GameMaster2) OK: Move from Node[0] to Node[1]
+2023-10-18 02:45:00	Node[1] disconnect: Ip(127.0.0.1 : 50979), Identity(1)
+2023-10-18 02:45:00	Clear role in Node[1]: GameMaster2
+2023-10-18 02:45:00	ClientConnectClose:[1]
+
+2023-10-18 02:45:06	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 02:45:06	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 02:45:06	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 02:45:24	Node[2] connect: Ip(127.0.0.1 : 58777), Identity(2)
+2023-10-18 02:45:24	ClientConnectCreate:[2]127.0.0.1 : 58777
+2023-10-18 02:45:31	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 02:45:31	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 02:45:31	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 02:46:03	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 02:46:03	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 02:46:04	EnterGame(GameMaster2) OK: Move from Node[0] to Node[2]
+2023-10-18 02:49:10	QuitSave[GameMaster2] OK: Leave Node[2]
+2023-10-18 02:49:10	SaveRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 02:49:26	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 02:49:26	GetRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 02:49:26	EnterGame(GameMaster2) OK: Move from Node[0] to Node[2]
+2023-10-18 02:50:07	Node[2] disconnect: Ip(127.0.0.1 : 58777), Identity(2)
+2023-10-18 02:50:07	Clear role in Node[2]: GameMaster2
+2023-10-18 02:50:07	ClientConnectClose:[2]
+
+2023-10-18 02:50:13	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 02:50:13	GetRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 02:50:13	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 02:50:30	Node[3] connect: Ip(127.0.0.1 : 38867), Identity(3)
+2023-10-18 02:50:30	ClientConnectCreate:[3]127.0.0.1 : 38867
+2023-10-18 02:51:12	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 02:51:12	GetRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 02:51:12	EnterGame(GameMaster2) OK: Move from Node[0] to Node[3]
+2023-10-18 03:14:10	QuitSave[GameMaster2] OK: Leave Node[3]
+2023-10-18 03:14:10	SaveRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 03:14:18	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:14:18	GetRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 03:14:18	EnterGame(GameMaster2) OK: Move from Node[0] to Node[3]
+2023-10-18 03:14:22	QuitSave[GameMaster2] OK: Leave Node[3]
+2023-10-18 03:14:22	SaveRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 03:14:56	Node[3] disconnect: Ip(127.0.0.1 : 38867), Identity(3)
+2023-10-18 03:14:56	ClientConnectClose:[3]
+
+2023-10-18 03:15:12	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:15:12	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 03:15:12	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 03:15:18	Node[4] connect: Ip(127.0.0.1 : 46989), Identity(4)
+2023-10-18 03:15:18	ClientConnectCreate:[4]127.0.0.1 : 46989
+2023-10-18 03:16:07	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:16:07	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 03:16:07	EnterGame(GameMaster2) OK: Move from Node[0] to Node[4]
+2023-10-18 03:18:12	Node[4] disconnect: Ip(127.0.0.1 : 46989), Identity(4)
+2023-10-18 03:18:12	Clear role in Node[4]: GameMaster2
+2023-10-18 03:18:12	ClientConnectClose:[4]
+
+2023-10-18 03:18:19	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:18:19	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 03:18:19	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 03:18:24	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:18:24	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 03:18:24	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 03:18:30	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:18:30	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 03:18:30	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 03:18:35	Node[5] connect: Ip(127.0.0.1 : 53835), Identity(5)
+2023-10-18 03:18:35	ClientConnectCreate:[5]127.0.0.1 : 53835
+2023-10-18 03:18:35	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:18:35	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 03:18:35	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 03:18:40	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:18:40	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 03:18:40	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 03:18:46	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:18:46	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 03:18:46	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 03:18:47	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:18:47	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 03:18:47	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 03:18:57	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:18:57	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 03:18:57	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-18 03:19:07	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:19:07	GetRoleData(GameMaster2) OK: datalen(2500)
+2023-10-18 03:19:09	EnterGame(GameMaster2) OK: Move from Node[0] to Node[5]
+2023-10-18 03:20:32	QuitSave[GameMaster2] OK: Leave Node[5]
+2023-10-18 03:20:32	SaveRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 03:21:24	Node[5] disconnect: Ip(127.0.0.1 : 53835), Identity(5)
+2023-10-18 03:21:24	ClientConnectClose:[5]
+
+2023-10-18 03:21:47	Node[6] connect: Ip(127.0.0.1 : 51828), Identity(6)
+2023-10-18 03:21:47	ClientConnectCreate:[6]127.0.0.1 : 51828
+2023-10-18 03:22:35	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:22:35	GetRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 03:22:35	EnterGame(GameMaster2) OK: Move from Node[0] to Node[6]
+2023-10-18 03:31:11	Node[6] disconnect: Ip(127.0.0.1 : 51828), Identity(6)
+2023-10-18 03:31:11	Clear role in Node[6]: GameMaster2
+2023-10-18 03:31:11	ClientConnectClose:[6]
+
+2023-10-18 03:31:34	Node[7] connect: Ip(127.0.0.1 : 37966), Identity(7)
+2023-10-18 03:31:34	ClientConnectCreate:[7]127.0.0.1 : 37966
+2023-10-18 03:31:46	Deliver statdata: 0 bytes
+2023-10-18 03:32:37	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:32:37	GetRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 03:32:37	EnterGame(GameMaster2) OK: Move from Node[0] to Node[7]
+2023-10-18 03:35:20	QuitSave[GameMaster2] OK: Leave Node[7]
+2023-10-18 03:35:20	SaveRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 03:35:27	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:35:27	GetRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 03:35:27	EnterGame(GameMaster2) OK: Move from Node[0] to Node[7]
+2023-10-18 03:35:49	Node[7] disconnect: Ip(127.0.0.1 : 37966), Identity(7)
+2023-10-18 03:35:49	Clear role in Node[7]: GameMaster2
+2023-10-18 03:35:49	ClientConnectClose:[7]
+
+2023-10-18 03:36:09	Node[8] connect: Ip(127.0.0.1 : 51064), Identity(8)
+2023-10-18 03:36:09	ClientConnectCreate:[8]127.0.0.1 : 51064
+2023-10-18 03:37:17	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-18 03:37:17	GetRoleData(GameMaster2) OK: datalen(2508)
+2023-10-18 03:37:17	EnterGame(GameMaster2) OK: Move from Node[0] to Node[8]
+2023-10-18 04:10:37	SaveRoleData(GameMaster2) OK: datalen(2596)
+2023-10-18 04:29:52	QuitSave[GameMaster2] OK: Leave Node[8]
+2023-10-18 04:29:52	SaveRoleData(GameMaster2) OK: datalen(2596)
+2023-10-18 05:03:45	[WARNING]Refuse invalid connection[198.235.24.9 : 59968]
+2023-10-18 05:03:45	[WARNING]Refuse invalid connection[198.235.24.9 : 59970]
+2023-10-18 05:31:46	Deliver statdata: 0 bytes
+2023-10-18 07:31:46	Deliver statdata: 0 bytes
+2023-10-18 08:39:27	[WARNING]Refuse invalid connection[198.235.24.77 : 59450]
+2023-10-18 09:31:46	Deliver statdata: 0 bytes
+2023-10-18 11:31:46	Deliver statdata: 0 bytes
+2023-10-18 11:42:55	[WARNING]Refuse invalid connection[74.82.47.3 : 58218]
+2023-10-18 13:31:46	Deliver statdata: 0 bytes
+2023-10-18 15:31:46	Deliver statdata: 0 bytes
+2023-10-18 17:31:46	Deliver statdata: 0 bytes
+2023-10-18 19:12:15	[WARNING]Refuse invalid connection[92.63.196.80 : 49984]
+2023-10-18 19:31:46	Deliver statdata: 0 bytes
+2023-10-18 21:31:46	Deliver statdata: 0 bytes
+2023-10-18 23:31:46	Deliver statdata: 0 bytes

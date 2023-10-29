@@ -1,0 +1,76 @@
+2023-10-14 23:10:42	Deliver statdata: 0 bytes
+2023-10-14 23:11:32	Node[1] connect: Ip(127.0.0.1 : 41396), Identity(1)
+2023-10-14 23:11:32	ClientConnectCreate:[1]127.0.0.1 : 41396
+2023-10-14 23:30:18	CreateRoleData(C26ÙMaMen) OK: Account(mamen), datalen(683)
+2023-10-14 23:30:18	EnterGame(C26ÙMaMen) OK: Move from Node[0] to Node[1]
+2023-10-14 23:30:38	LeaveGame[C26ÙMaMen] OK: Leave Node[1]
+2023-10-14 23:32:51	Node[1] disconnect: Ip(127.0.0.1 : 41396), Identity(1)
+2023-10-14 23:32:51	ClientConnectClose:[1]
+
+2023-10-14 23:33:12	GetRoleInfo(C26ÙMaMen) OK: Enter Node[0](127.0.0.1 : 34457)
+2023-10-14 23:33:12	GetRoleData(C26ÙMaMen) OK: datalen(683)
+2023-10-14 23:33:12	LeaveBishop[C26ÙMaMen] OK: Leave Node[0]
+2023-10-14 23:34:29	Node[2] connect: Ip(127.0.0.1 : 38895), Identity(2)
+2023-10-14 23:34:29	ClientConnectCreate:[2]127.0.0.1 : 38895
+2023-10-14 23:34:45	GetRoleInfo(C26ÙMaMen) OK: Enter Node[0](127.0.0.1 : 34457)
+2023-10-14 23:34:45	GetRoleData(C26ÙMaMen) OK: datalen(683)
+2023-10-14 23:34:45	LeaveBishop[C26ÙMaMen] OK: Leave Node[0]
+2023-10-14 23:35:10	GetRoleInfo(C26ÙMaMen) OK: Enter Node[0](127.0.0.1 : 34457)
+2023-10-14 23:35:10	GetRoleData(C26ÙMaMen) OK: datalen(683)
+2023-10-14 23:35:10	EnterGame(C26ÙMaMen) OK: Move from Node[0] to Node[2]
+2023-10-14 23:35:30	LeaveGame[C26ÙMaMen] OK: Leave Node[2]
+2023-10-14 23:39:28	Node[0] connect: Ip(127.0.0.1 : 34461), Identity(0)
+2023-10-14 23:39:28	ClientConnectCreate:[0]127.0.0.1 : 34461
+2023-10-14 23:39:28	Bishop claim from Node[0]!
+2023-10-14 23:43:02	Node[1] connect: Ip(127.0.0.1 : 43973), Identity(1)
+2023-10-14 23:43:02	ClientConnectCreate:[1]127.0.0.1 : 43973
+2023-10-14 23:43:24	GetRoleInfo(C26ÙMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-14 23:43:24	GetRoleData(C26ÙMaMen) OK: datalen(683)
+2023-10-14 23:43:24	LeaveBishop[C26ÙMaMen] OK: Leave Node[0]
+2023-10-14 23:43:56	GetRoleInfo(C26ÙMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-14 23:43:56	GetRoleData(C26ÙMaMen) OK: datalen(683)
+2023-10-14 23:43:56	EnterGame(C26ÙMaMen) OK: Move from Node[0] to Node[1]
+2023-10-14 23:44:16	LeaveGame[C26ÙMaMen] OK: Leave Node[1]
+2023-10-14 23:44:40	CreateRoleData(QMDDepZai) OK: Account(quangmd), datalen(683)
+2023-10-14 23:44:40	EnterGame(QMDDepZai) OK: Move from Node[0] to Node[1]
+2023-10-14 23:45:00	LeaveGame[QMDDepZai] OK: Leave Node[1]
+2023-10-14 23:45:08	GetRoleInfo(C26ÙMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-14 23:45:08	GetRoleData(C26ÙMaMen) OK: datalen(683)
+2023-10-14 23:45:08	EnterGame(C26ÙMaMen) OK: Move from Node[0] to Node[1]
+2023-10-14 23:45:28	LeaveGame[C26ÙMaMen] OK: Leave Node[1]
+2023-10-14 23:46:16	Node[1] disconnect: Ip(127.0.0.1 : 43973), Identity(1)
+2023-10-14 23:46:16	ClientConnectClose:[1]
+
+2023-10-14 23:47:57	GetRoleInfo(C26ÙMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-14 23:47:57	GetRoleData(C26ÙMaMen) OK: datalen(683)
+2023-10-14 23:47:57	LeaveBishop[C26ÙMaMen] OK: Leave Node[0]
+2023-10-14 23:48:08	GetRoleInfo(QMDDepZai) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-14 23:48:08	GetRoleData(QMDDepZai) OK: datalen(683)
+2023-10-14 23:48:08	LeaveBishop[QMDDepZai] OK: Leave Node[0]
+2023-10-14 23:50:14	Node[2] connect: Ip(127.0.0.1 : 60385), Identity(2)
+2023-10-14 23:50:14	ClientConnectCreate:[2]127.0.0.1 : 60385
+2023-10-14 23:52:01	GetRoleInfo(C26ÙMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-14 23:52:01	GetRoleData(C26ÙMaMen) OK: datalen(683)
+2023-10-14 23:52:01	EnterGame(C26ÙMaMen) OK: Move from Node[0] to Node[2]
+2023-10-14 23:52:21	LeaveGame[C26ÙMaMen] OK: Leave Node[2]
+2023-10-14 23:54:47	Node[2] disconnect: Ip(127.0.0.1 : 60385), Identity(2)
+2023-10-14 23:54:47	ClientConnectClose:[2]
+
+2023-10-14 23:55:26	Node[3] connect: Ip(127.0.0.1 : 36562), Identity(3)
+2023-10-14 23:55:26	ClientConnectCreate:[3]127.0.0.1 : 36562
+2023-10-14 23:56:07	GetRoleInfo(C26ÙMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-14 23:56:07	GetRoleData(C26ÙMaMen) OK: datalen(683)
+2023-10-14 23:56:07	EnterGame(C26ÙMaMen) OK: Move from Node[0] to Node[3]
+2023-10-14 23:56:27	LeaveGame[C26ÙMaMen] OK: Leave Node[3]
+2023-10-14 23:56:30	GetRoleInfo(C26ÙMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-14 23:56:30	GetRoleData(C26ÙMaMen) OK: datalen(683)
+2023-10-14 23:56:30	EnterGame(C26ÙMaMen) OK: Move from Node[0] to Node[3]
+2023-10-14 23:56:50	LeaveGame[C26ÙMaMen] OK: Leave Node[3]
+2023-10-14 23:56:56	GetRoleInfo(C26ÙMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-14 23:56:56	GetRoleData(C26ÙMaMen) OK: datalen(683)
+2023-10-14 23:56:56	EnterGame(C26ÙMaMen) OK: Move from Node[0] to Node[3]
+2023-10-14 23:57:16	LeaveGame[C26ÙMaMen] OK: Leave Node[3]
+2023-10-14 23:58:25	GetRoleInfo(C26ÙMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-14 23:58:25	GetRoleData(C26ÙMaMen) OK: datalen(683)
+2023-10-14 23:58:25	EnterGame(C26ÙMaMen) OK: Move from Node[0] to Node[3]
+2023-10-14 23:58:45	LeaveGame[C26ÙMaMen] OK: Leave Node[3]

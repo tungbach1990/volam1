@@ -1,0 +1,14 @@
+Name	TransLife	CurrentLevel	CurrentExp	CurrentExpPercent
+QMDDepZai	6	200	0	0
+HéiQu¸nVâL©m	0	120	0.025000017	25
+NMVipPro	6	200	0	0
+…Ma–Men…	6	200	0	0
+…C26–Tom…	0	120	0	0
+…–Tom…	0	120	0.072097605	72
+GameMaster2	0	52	3.2e-05	4
+GameMaster3	0	81	0.0013885	14
+C26ÙMaMen	6	200	0	0
+GameMaster	4	200	0	0
+VâL©mQu¸n	0	120	4e-09	0
+NMCNMC	0	120	0	0
+TVCAAA	0	120	0	0

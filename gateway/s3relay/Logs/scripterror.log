@@ -1,0 +1,42 @@
+[2023-10-15 12:00:31] error: bad argument #1 to `getn' (table expected, got nil)
+stack traceback:
+   1[50]:  function `getn' [C]
+   2[47]:  function `qy_get_bosspos' at line 53 [string "\RelaySetting\Task\callboss_incityhead.lua"]
+   3[43]:  function `qy_makeboss_onlyone_pos' at line 44 [string "\RelaySetting\Task\callboss_incityhead.lua"]
+   4[42]:  function `TaskContent' at line 49 [string "\RelaySetting\Task\makegoldboss_1200.lua"]
+
+[2023-10-16 12:00:31] error: bad argument #1 to `getn' (table expected, got nil)
+stack traceback:
+   1[50]:  function `getn' [C]
+   2[47]:  function `qy_get_bosspos' at line 53 [string "\RelaySetting\Task\callboss_incityhead.lua"]
+   3[43]:  function `qy_makeboss_onlyone_pos' at line 44 [string "\RelaySetting\Task\callboss_incityhead.lua"]
+   4[42]:  function `TaskContent' at line 49 [string "\RelaySetting\Task\makegoldboss_1200.lua"]
+
+[2023-10-17 12:00:04] error: bad argument #1 to `getn' (table expected, got nil)
+stack traceback:
+   1[32]:  function `getn' [C]
+   2[29]:  function `qy_get_bosspos' at line 53 [string "\RelaySetting\Task\callboss_incityhead.lua"]
+   3[25]:  function `qy_makeboss_onlyone_pos' at line 44 [string "\RelaySetting\Task\callboss_incityhead.lua"]
+   4[24]:  function `TaskContent' at line 49 [string "\RelaySetting\Task\makegoldboss_1200.lua"]
+
+[2023-10-18 12:00:48] error: bad argument #1 to `getn' (table expected, got nil)
+stack traceback:
+   1[56]:  function `getn' [C]
+   2[53]:  function `qy_get_bosspos' at line 53 [string "\RelaySetting\Task\callboss_incityhead.lua"]
+   3[49]:  function `qy_makeboss_onlyone_pos' at line 44 [string "\RelaySetting\Task\callboss_incityhead.lua"]
+   4[48]:  function `TaskContent' at line 49 [string "\RelaySetting\Task\makegoldboss_1200.lua"]
+
+[2023-10-20 12:00:48] error: bad argument #1 to `getn' (table expected, got nil)
+stack traceback:
+   1[68]:  function `getn' [C]
+   2[65]:  function `qy_get_bosspos' at line 53 [string "\RelaySetting\Task\callboss_incityhead.lua"]
+   3[61]:  function `qy_makeboss_onlyone_pos' at line 44 [string "\RelaySetting\Task\callboss_incityhead.lua"]
+   4[60]:  function `TaskContent' at line 49 [string "\RelaySetting\Task\makegoldboss_1200.lua"]
+
+[2023-10-21 12:00:48] error: bad argument #1 to `getn' (table expected, got nil)
+stack traceback:
+   1[68]:  function `getn' [C]
+   2[65]:  function `qy_get_bosspos' at line 53 [string "\RelaySetting\Task\callboss_incityhead.lua"]
+   3[61]:  function `qy_makeboss_onlyone_pos' at line 44 [string "\RelaySetting\Task\callboss_incityhead.lua"]
+   4[60]:  function `TaskContent' at line 49 [string "\RelaySetting\Task\makegoldboss_1200.lua"]
+

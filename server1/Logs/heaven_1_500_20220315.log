@@ -1,0 +1,12 @@
+2022-03-15 14:17:00	heaven(version 2.02) log start....
+2022-03-15 14:18:45	Allocate Connectionidx:0, IP:192.168.1.1, LeftFreeCount:499
+2022-03-15 14:20:42	Callback Connectionidx:0, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2022-03-15 14:22:37	heaven(version 2.02) log start....
+2022-03-15 14:27:16	Allocate Connectionidx:0, IP:192.168.1.1, LeftFreeCount:499
+2022-03-15 16:14:55	Callback Connectionidx:0, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2022-03-15 16:16:11	Allocate Connectionidx:1, IP:192.168.1.1, LeftFreeCount:499
+2022-03-15 16:35:58	Callback Connectionidx:1, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2022-03-15 16:36:12	Allocate Connectionidx:2, IP:192.168.1.1, LeftFreeCount:499
+2022-03-15 16:38:14	Callback Connectionidx:2, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2022-03-15 16:58:46	Allocate Connectionidx:3, IP:192.168.1.1, LeftFreeCount:499
+2022-03-15 16:59:37	Callback Connectionidx:3, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500

@@ -1,0 +1,55 @@
+2022-03-15 14:16:57	GameServer[0] create: 127.0.0.1 : 47912
+2022-03-15 14:17:29	GameServer[1] create: 127.0.0.1 : 58319
+2022-03-15 14:18:21	Gameserver(1) update map ok
+2022-03-15 14:22:34	GameServer[0] create: 127.0.0.1 : 47916
+2022-03-15 14:22:53	GameServer[1] create: 127.0.0.1 : 39908
+2022-03-15 14:23:15	Gameserver(1) update map ok
+2022-03-15 14:27:15	LoginToMap: Account(eurofun), Index(0), IP:192.168.1.1 : 60807
+2022-03-15 14:27:15	ProcessRoleList -> nNextTask(1) m_lnIdentityID 0 m_dwGoddessIdentity:1 Account:eurofun
+2022-03-15 14:27:16	ApplyRoleData Identity: 1 Account:eurofun Role:HÈiQu∏nV‚L©m
+2022-03-15 14:27:16	SelAddDelRole -> nNextTask(3) m_lnIdentityID 0, m_dwGoddessIdentity:1 Account:eurofun role: HÈiQu∏nV‚L©m
+2022-03-15 14:27:16	set gameServer: -1=>1
+2022-03-15 14:27:16	set role name: =>HÈiQu∏nV‚L©m
+2022-03-15 14:27:16	_SyncRoleInfo_ToGameServer result is 1 Identity:1 Account:eurofun Role: HÈiQu∏nV‚L©m
+2022-03-15 14:27:16	Map changed: 0=>53
+2022-03-15 14:27:16	ProcessRoleInfo nNextTask: 8  Identity:1 Account:eurofun
+2022-03-15 14:27:16	GameServer(1) accept account(eurofun), Map(53)
+2022-03-15 14:27:16	set status: 1=>2
+2022-03-15 14:27:17	GameServer(127.0.0.1) notify account(eurofun) enter gameworld
+2022-03-15 16:14:55	GameSever(127.0.0.1) notify account(eurofun) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(107min)
+2022-03-15 16:14:55	LogoutFromMap: Account(eurofun), GameServer(1), Status(2), PlayrIndex(0), Role(HÈiQu∏nV‚L©m), Map(53)
+2022-03-15 16:16:10	LoginToMap: Account(eurofun), Index(1), IP:192.168.1.1 : 60949
+2022-03-15 16:16:10	ProcessRoleList -> nNextTask(1) m_lnIdentityID 1 m_dwGoddessIdentity:2 Account:eurofun
+2022-03-15 16:16:11	ApplyRoleData Identity: 2 Account:eurofun Role:HÈiQu∏nV‚L©m
+2022-03-15 16:16:11	SelAddDelRole -> nNextTask(3) m_lnIdentityID 1, m_dwGoddessIdentity:2 Account:eurofun role: HÈiQu∏nV‚L©m
+2022-03-15 16:16:11	set gameServer: -1=>1
+2022-03-15 16:16:11	set role name: =>HÈiQu∏nV‚L©m
+2022-03-15 16:16:11	_SyncRoleInfo_ToGameServer result is 1 Identity:2 Account:eurofun Role: HÈiQu∏nV‚L©m
+2022-03-15 16:16:11	Map changed: 0=>53
+2022-03-15 16:16:11	ProcessRoleInfo nNextTask: 8  Identity:2 Account:eurofun
+2022-03-15 16:16:11	GameServer(1) accept account(eurofun), Map(53)
+2022-03-15 16:16:11	set status: 1=>2
+2022-03-15 16:16:11	GameServer(127.0.0.1) notify account(eurofun) enter gameworld
+2022-03-15 16:35:59	GameSever(127.0.0.1) notify account(eurofun) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(19min)
+2022-03-15 16:35:59	LogoutFromMap: Account(eurofun), GameServer(1), Status(2), PlayrIndex(1), Role(HÈiQu∏nV‚L©m), Map(53)
+2022-03-15 16:36:11	LoginToMap: Account(eurofun), Index(2), IP:192.168.1.1 : 60980
+2022-03-15 16:36:11	ProcessRoleList -> nNextTask(1) m_lnIdentityID 2 m_dwGoddessIdentity:3 Account:eurofun
+2022-03-15 16:36:12	ApplyRoleData Identity: 3 Account:eurofun Role:HÈiQu∏nV‚L©m
+2022-03-15 16:36:12	SelAddDelRole -> nNextTask(3) m_lnIdentityID 2, m_dwGoddessIdentity:3 Account:eurofun role: HÈiQu∏nV‚L©m
+2022-03-15 16:36:12	set gameServer: -1=>1
+2022-03-15 16:36:12	set role name: =>HÈiQu∏nV‚L©m
+2022-03-15 16:36:12	_SyncRoleInfo_ToGameServer result is 1 Identity:3 Account:eurofun Role: HÈiQu∏nV‚L©m
+2022-03-15 16:36:12	Map changed: 0=>53
+2022-03-15 16:36:12	ProcessRoleInfo nNextTask: 8  Identity:3 Account:eurofun
+2022-03-15 16:36:12	GameServer(1) accept account(eurofun), Map(53)
+2022-03-15 16:36:12	set status: 1=>2
+2022-03-15 16:36:12	GameServer(127.0.0.1) notify account(eurofun) enter gameworld
+2022-03-15 16:38:14	GameSever(127.0.0.1) notify account(eurofun) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(2min)
+2022-03-15 16:38:14	LogoutFromMap: Account(eurofun), GameServer(1), Status(2), PlayrIndex(2), Role(HÈiQu∏nV‚L©m), Map(53)
+2022-03-15 16:58:45	LoginToMap: Account(eurofun), Index(3), IP:192.168.1.1 : 61079
+2022-03-15 16:58:45	ProcessRoleList -> nNextTask(1) m_lnIdentityID 3 m_dwGoddessIdentity:4 Account:eurofun
+2022-03-15 16:58:46	ApplyRoleData Identity: 4 Account:eurofun Role:HÈiQu∏nV‚L©m
+2022-03-15 16:58:46	SelAddDelRole -> nNextTask(3) m_lnIdentityID 3, m_dwGoddessIdentity:4 Account:eurofun role: HÈiQu∏nV‚L©m
+2022-03-15 16:58:46	set gameServer: -1=>1
+2022-03-15 16:58:46	set role name: =>HÈiQu∏nV‚L©m
+2022-03-15 16:58:46	_SyncRoleInfo_ToGameServer result is 1 Identity:4 Account:eurofun Role: H

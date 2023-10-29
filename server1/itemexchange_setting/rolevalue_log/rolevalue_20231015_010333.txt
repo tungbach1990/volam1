@@ -1,0 +1,461 @@
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Thiªu Háa C«n (0,0,0,2,0,1), unbind = 0, bind = 0
+[Normal]Item: Ma S¸t Quû Cèc U Minh Th­¬ng(0,1,100,3,2,10),(123,0) = [81,0],(115,0) = [40,479],(139,150) = [1,0], unbind = 0, bind = 8685
+[Normal]Item: Ma S¸t Tµn D­¬ng ¶nh HuyÕt Gi¸p(0,1,101,16,0,10),(113,0) = [42,0],(110,0) = [45,5],(139,135) = [1,0], unbind = 0, bind = 19687
+[Normal]Item: Ma S¸t XÝch Ký Táa Yªu KhÊu(0,1,102,1,4,10),(106,0) = [41,0],(105,0) = [29,67],(139,361) = [3,167], unbind = 0, bind = 278332
+[Normal]Item: Ma S¸t Cö Háa Liªu Thiªn Hoµn(0,1,103,1,3,10),(139,361) = [3,58],(139,141) = [2,23],(105,0) = [42,12], unbind = 0, bind = 32167
+[Normal]Item: Ma S¸t V©n Long Thæ Ch©u giíi(0,1,104,0,1,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: HuyÒn ThiÕt KiÕm(0,0,0,0,3,10), unbind = 0, bind = 0
+[Normal]Item: Hå §iÖp Song §ao(0,0,0,5,4,8), unbind = 0, bind = 0
+[Normal]Item: §éc C¬ §ao(0,0,1,1,4,9), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,4,7), unbind = 0, bind = 0
+[Normal]Item: XØ KhiÕp(0,0,0,0,4,7), unbind = 0, bind = 0
+[Normal]Item: Kim C« Bæng(0,0,0,2,4,10), unbind = 0, bind = 0
+[Normal]Item: Lang Nha Bæng(0,0,0,2,1,7), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Thiªn Hoµng Long Long §µi(0,1,167,4,2,6), unbind = 0, bind = 0
+[Normal]Item: Thiªn Hoµng Long B¹ch Long Tøc(0,1,168,18,0,6), unbind = 0, bind = 0
+[Normal]Item: Thiªn Hoµng Long TrÊn Minh Liªn(0,1,169,1,1,6), unbind = 0, bind = 0
+[Normal]Item: Thiªn Hoµng Long Cöu HiÖn chØ (0,1,170,0,2,6), unbind = 0, bind = 0
+[Normal]Item: Thiªn Hoµng Long Ngäc Tiªu Diªu(0,1,171,1,4,6), unbind = 0, bind = 0
+[Normal]Item: Thiªn Hoµng Long Hoµng Kim L©n(0,1,172,1,3,6), unbind = 0, bind = 0
+[Normal]Item: Thiªn Hoµng Long Bµn Long c«i(0,1,173,1,0,6), unbind = 0, bind = 0
+[Normal]Item: Thiªn Hoµng Long Long Khèc Thiªn Lý (0,1,174,1,4,6), unbind = 0, bind = 0
+[Normal]Item: Thiªn Hoµng Long Né Long §ång(0,1,175,0,1,6), unbind = 0, bind = 0
+[Normal]Item: V« Danh ChØ Hoµn(0,1,140,0,2,10), unbind = 0, bind = 0
+[Normal]Item: V« Danh Giíi ChØ (0,1,141,0,3,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh KiÕm Bµi(0,1,204,0,2,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Môc Tóc(0,1,205,0,4,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh KiÕm Bµi(0,1,204,0,2,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Môc Tóc(0,1,205,0,4,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh KiÕm Bµi(0,1,204,0,2,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Môc Tóc(0,1,205,0,4,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh KiÕm Bµi(0,1,204,0,2,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Môc Tóc(0,1,205,0,4,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh KiÕm Bµi(0,1,204,0,2,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Môc Tóc(0,1,205,0,4,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh KiÕm Bµi(0,1,204,0,2,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Môc Tóc(0,1,205,0,4,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh KiÕm Bµi(0,1,204,0,2,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Môc Tóc(0,1,205,0,4,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh KiÕm Bµi(0,1,204,0,2,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Môc Tóc(0,1,205,0,4,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh KiÕm Bµi(0,1,204,0,2,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Môc Tóc(0,1,205,0,4,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh KiÕm Bµi(0,1,204,0,2,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Môc Tóc(0,1,205,0,4,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh KiÕm Bµi(0,1,204,0,2,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Môc Tóc(0,1,205,0,4,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh KiÕm Bµi(0,1,204,0,2,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Môc Tóc(0,1,205,0,4,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh KiÕm Bµi(0,1,204,0,2,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Môc Tóc(0,1,205,0,4,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: §éng S¸t B¹ch Kim §iªu Long Giíi(0,1,142,0,3,10), unbind = 0, bind = 2500
+[Normal]Item: §éng S¸t B¹ch Ngäc Cµn Kh«n Béi(0,1,143,1,4,10), unbind = 0, bind = 2500
+[Normal]Item: §éng S¸t B¹ch Kim Tó Phông Giíi(0,1,144,0,0,10), unbind = 0, bind = 2500
+[Normal]Item: §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn(0,1,145,1,2,10), unbind = 0, bind = 2500
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: B«n Tiªu(0,0,10,6,0,10), unbind = 0, bind = 0
+[Normal]Item: Phiªn Vò (0,0,10,7,0,10), unbind = 0, bind = 0
+[Normal]Item: XÝch Long C©u(0,0,10,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Du Huy(0,0,10,11,0,10), unbind = 0, bind = 0
+[Normal]Item: Siªu Quang(0,0,10,13,0,10), unbind = 0, bind = 0
+[Normal]Item: ThiÕt Trñy thñ (0,0,0,0,0,1), unbind = 0, bind = 0
+[Normal]Item: LiÔu DiÖp tiªu(0,0,1,0,2,5), unbind = 0, bind = 0
+[Normal]Item: B¸o vÜ th­¬ng(0,0,0,3,3,6), unbind = 0, bind = 0
+[Normal]Item: To¸i NguyÖt §ao(0,0,1,1,2,10), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh ThÈm Viªn UyÓn(0,1,203,1,1,10), unbind = 0, bind = 3750
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: To¸n §Çu chïy(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: Phi §ao(0,0,1,1,3,1), unbind = 0, bind = 0
+[Normal]Item: LiÖt T©m chïy(0,0,0,4,3,7), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,3,8), unbind = 0, bind = 0
+[Normal]Item: Kim Tiªu (0,0,1,0,3,9), unbind = 0, bind = 0
+[Normal]Item: NghiÖt Long chïy(0,0,0,4,3,9), unbind = 0, bind = 0
+[Normal]Item: B¸ V­¬ngTiªu(0,0,1,0,3,10), unbind = 0, bind = 0
+[Normal]Item: Nh¹n Linh Th­¬ng(0,0,0,3,3,7), unbind = 0, bind = 0
+[Normal]Item: Thanh Long §ao(0,0,0,1,3,9), unbind = 0, bind = 0
+[Normal]Item: Gia C¸t Nç (0,0,1,2,3,9), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,3,8), unbind = 0, bind = 0
+[Normal]Item: B¸ V­¬ngTiªu(0,0,1,0,4,10), unbind = 0, bind = 0
+[Normal]Item: Gi¸c H¶i Bæng(0,0,0,2,4,9), unbind = 0, bind = 0
+[Normal]Item: Th«n NhËt Tr·m(0,0,0,5,4,10), unbind = 0, bind = 0
+[Normal]Item: ThiÕu L©m L­îng Ng©n Phi Tiªu(0,0,1,0,3,7), unbind = 0, bind = 0
+[Normal]Item: Tó Cèt Th­¬ng(0,0,0,3,3,8), unbind = 0, bind = 0
+[Normal]Item: HuyÒn ThiÕt KiÕm(0,0,0,0,3,10), unbind = 0, bind = 0
+[Normal]Item: T©m ý §ao(0,0,1,1,3,8), unbind = 0, bind = 0
+[Normal]Item: Th«n NhËt Tr·m(0,0,0,5,3,10), unbind = 0, bind = 0
+[Normal]Item: Phï Dung §ao(0,0,0,5,1,7), unbind = 0, bind = 0
+[Normal]Item: Kim Tiªu (0,0,1,0,1,9), unbind = 0, bind = 0
+[Normal]Item: Khæng T­íc Linh(0,0,1,2,3,10), unbind = 0, bind = 0
+[Normal]Item: Thiªn NhËn KiÕm(0,0,0,0,3,9), unbind = 0, bind = 0
+[Normal]Item: Gi¸c H¶i Bæng(0,0,0,2,3,9), unbind = 0, bind = 0
+[Normal]Item: Gi¸c H¶i Bæng(0,0,0,2,4,9), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: Nga Mi ThÝch(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Ph¸ Thiªn KÝch(0,0,0,3,2,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unbind = 0, bind = 3750
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Tinh ChuÈn Ngoa(0,1,512,1,0,10), unbind = 0, bind = 0
+[Normal]Item: [Hoµn Mü] Vinh DiÖu Y(0,1,511,9,0,10), unbind = 0, bind = 0
+[Normal]Item: Hång ¶nh Tô Chiªu(0,1,206,1,3,10), unb

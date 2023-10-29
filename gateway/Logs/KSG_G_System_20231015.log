@@ -1,0 +1,286 @@
+2023-10-15 06:10:04	Node[0] connect: Ip(127.0.0.1 : 34457), Identity(0)
+2023-10-15 06:10:04	ClientConnectCreate:[0]127.0.0.1 : 34457
+2023-10-15 06:10:04	Bishop claim from Node[0]!
+2023-10-15 00:28:36	Node[3] disconnect: Ip(127.0.0.1 : 36562), Identity(3)
+2023-10-15 00:28:36	ClientConnectClose:[3]
+
+2023-10-15 00:29:23	Node[4] connect: Ip(192.168.1.103 : 39951), Identity(4)
+2023-10-15 00:29:23	ClientConnectCreate:[4]192.168.1.103 : 39951
+2023-10-15 00:40:04	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:40:04	GetRoleData(C26ŸMaMen) OK: datalen(683)
+2023-10-15 00:40:04	LeaveBishop[C26ŸMaMen] OK: Leave Node[0]
+2023-10-15 00:40:20	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:40:20	GetRoleData(C26ŸMaMen) OK: datalen(683)
+2023-10-15 00:40:20	LeaveBishop[C26ŸMaMen] OK: Leave Node[0]
+2023-10-15 00:40:49	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:40:49	GetRoleData(C26ŸMaMen) OK: datalen(683)
+2023-10-15 00:40:49	LeaveBishop[C26ŸMaMen] OK: Leave Node[0]
+2023-10-15 00:41:05	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:41:05	GetRoleData(C26ŸMaMen) OK: datalen(683)
+2023-10-15 00:41:05	LeaveBishop[C26ŸMaMen] OK: Leave Node[0]
+2023-10-15 00:41:27	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:41:27	GetRoleData(C26ŸMaMen) OK: datalen(683)
+2023-10-15 00:41:27	LeaveBishop[C26ŸMaMen] OK: Leave Node[0]
+2023-10-15 00:41:37	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:41:37	GetRoleData(C26ŸMaMen) OK: datalen(683)
+2023-10-15 00:41:37	LeaveBishop[C26ŸMaMen] OK: Leave Node[0]
+2023-10-15 00:42:23	Node[4] disconnect: Ip(192.168.1.103 : 39951), Identity(4)
+2023-10-15 00:42:23	ClientConnectClose:[4]
+
+2023-10-15 00:42:56	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:42:56	GetRoleData(C26ŸMaMen) OK: datalen(683)
+2023-10-15 00:42:56	LeaveBishop[C26ŸMaMen] OK: Leave Node[0]
+2023-10-15 00:43:01	Node[5] connect: Ip(127.0.0.1 : 36555), Identity(5)
+2023-10-15 00:43:01	ClientConnectCreate:[5]127.0.0.1 : 36555
+2023-10-15 00:43:07	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:43:07	GetRoleData(C26ŸMaMen) OK: datalen(683)
+2023-10-15 00:43:07	LeaveBishop[C26ŸMaMen] OK: Leave Node[0]
+2023-10-15 00:43:22	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:43:22	GetRoleData(C26ŸMaMen) OK: datalen(683)
+2023-10-15 00:43:22	LeaveBishop[C26ŸMaMen] OK: Leave Node[0]
+2023-10-15 00:43:41	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:43:41	GetRoleData(C26ŸMaMen) OK: datalen(683)
+2023-10-15 00:43:41	EnterGame(C26ŸMaMen) OK: Move from Node[0] to Node[5]
+2023-10-15 00:44:01	LeaveGame[C26ŸMaMen] OK: Leave Node[5]
+2023-10-15 00:44:35	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:44:35	GetRoleData(C26ŸMaMen) OK: datalen(683)
+2023-10-15 00:44:35	EnterGame(C26ŸMaMen) OK: Move from Node[0] to Node[5]
+2023-10-15 00:44:55	LeaveGame[C26ŸMaMen] OK: Leave Node[5]
+2023-10-15 00:44:56	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:44:56	GetRoleData(C26ŸMaMen) OK: datalen(683)
+2023-10-15 00:44:56	EnterGame(C26ŸMaMen) OK: Move from Node[0] to Node[5]
+2023-10-15 00:45:16	LeaveGame[C26ŸMaMen] OK: Leave Node[5]
+2023-10-15 00:46:04	CreateRoleData(124124) OK: Account(mamen), datalen(683)
+2023-10-15 00:46:04	EnterGame(124124) OK: Move from Node[0] to Node[5]
+2023-10-15 00:46:24	LeaveGame[124124] OK: Leave Node[5]
+2023-10-15 00:47:00	GetRoleInfo(124124) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:47:00	GetRoleData(124124) OK: datalen(683)
+2023-10-15 00:47:00	EnterGame(124124) OK: Move from Node[0] to Node[5]
+2023-10-15 00:47:20	LeaveGame[124124] OK: Leave Node[5]
+2023-10-15 00:47:23	GetRoleInfo(124124) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:47:23	GetRoleData(124124) OK: datalen(683)
+2023-10-15 00:47:23	EnterGame(124124) OK: Move from Node[0] to Node[5]
+2023-10-15 00:47:43	LeaveGame[124124] OK: Leave Node[5]
+2023-10-15 00:47:55	GetRoleInfo(124124) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:47:55	GetRoleData(124124) OK: datalen(683)
+2023-10-15 00:47:55	EnterGame(124124) OK: Move from Node[0] to Node[5]
+2023-10-15 00:48:15	LeaveGame[124124] OK: Leave Node[5]
+2023-10-15 00:48:19	GetRoleInfo(124124) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:48:19	GetRoleData(124124) OK: datalen(683)
+2023-10-15 00:48:19	EnterGame(124124) OK: Move from Node[0] to Node[5]
+2023-10-15 00:48:39	LeaveGame[124124] OK: Leave Node[5]
+2023-10-15 00:48:41	GetRoleInfo(QMDDepZai) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:48:41	GetRoleData(QMDDepZai) OK: datalen(683)
+2023-10-15 00:48:41	EnterGame(QMDDepZai) OK: Move from Node[0] to Node[5]
+2023-10-15 00:49:01	LeaveGame[QMDDepZai] OK: Leave Node[5]
+2023-10-15 00:57:15	GetRoleInfo(QMDDepZai) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:57:15	GetRoleData(QMDDepZai) OK: datalen(683)
+2023-10-15 00:57:15	EnterGame(QMDDepZai) OK: Move from Node[0] to Node[5]
+2023-10-15 00:57:35	LeaveGame[QMDDepZai] OK: Leave Node[5]
+2023-10-15 00:58:25	GetRoleInfo(QMDDepZai) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 00:58:25	GetRoleData(QMDDepZai) OK: datalen(683)
+2023-10-15 00:58:26	EnterGame(QMDDepZai) OK: Move from Node[0] to Node[5]
+2023-10-15 00:58:44	Node[5] disconnect: Ip(127.0.0.1 : 36555), Identity(5)
+2023-10-15 00:58:44	Clear role in Node[5]: QMDDepZai
+2023-10-15 00:58:44	ClientConnectClose:[5]
+
+2023-10-15 00:59:21	Node[6] connect: Ip(127.0.0.1 : 45028), Identity(6)
+2023-10-15 00:59:21	ClientConnectCreate:[6]127.0.0.1 : 45028
+2023-10-15 01:00:27	GetRoleInfo(QMDDepZai) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 01:00:27	GetRoleData(QMDDepZai) OK: datalen(683)
+2023-10-15 01:00:27	EnterGame(QMDDepZai) OK: Move from Node[0] to Node[6]
+2023-10-15 01:00:47	LeaveGame[QMDDepZai] OK: Leave Node[6]
+2023-10-15 01:00:51	GetRoleInfo(QMDDepZai) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 01:00:51	GetRoleData(QMDDepZai) OK: datalen(683)
+2023-10-15 01:00:51	EnterGame(QMDDepZai) OK: Move from Node[0] to Node[6]
+2023-10-15 01:01:12	LeaveGame[QMDDepZai] OK: Leave Node[6]
+2023-10-15 01:02:50	Node[6] disconnect: Ip(127.0.0.1 : 45028), Identity(6)
+2023-10-15 01:02:50	ClientConnectClose:[6]
+
+2023-10-15 01:03:19	GetRoleInfo(QMDDepZai) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 01:03:19	GetRoleData(QMDDepZai) OK: datalen(683)
+2023-10-15 01:03:19	LeaveBishop[QMDDepZai] OK: Leave Node[0]
+2023-10-15 01:03:33	Node[7] connect: Ip(127.0.0.1 : 42916), Identity(7)
+2023-10-15 01:03:33	ClientConnectCreate:[7]127.0.0.1 : 42916
+2023-10-15 01:05:14	GetRoleInfo(QMDDepZai) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 01:05:14	GetRoleData(QMDDepZai) OK: datalen(683)
+2023-10-15 01:05:14	EnterGame(QMDDepZai) OK: Move from Node[0] to Node[7]
+2023-10-15 01:05:35	LeaveGame[QMDDepZai] OK: Leave Node[7]
+2023-10-15 01:11:49	GetRoleInfo(QMDDepZai) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 01:11:49	GetRoleData(QMDDepZai) OK: datalen(683)
+2023-10-15 01:11:49	EnterGame(QMDDepZai) OK: Move from Node[0] to Node[7]
+2023-10-15 01:12:09	LeaveGame[QMDDepZai] OK: Leave Node[7]
+2023-10-15 01:12:33	GetRoleInfo(QMDDepZai) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 01:12:33	GetRoleData(QMDDepZai) OK: datalen(683)
+2023-10-15 01:12:33	EnterGame(QMDDepZai) OK: Move from Node[0] to Node[7]
+2023-10-15 01:13:56	QuitSave[QMDDepZai] OK: Leave Node[7]
+2023-10-15 01:13:56	SaveRoleData(QMDDepZai) OK: datalen(1044)
+2023-10-15 01:14:02	GetRoleInfo(QMDDepZai) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 01:14:02	GetRoleData(QMDDepZai) OK: datalen(1044)
+2023-10-15 01:14:02	EnterGame(QMDDepZai) OK: Move from Node[0] to Node[7]
+2023-10-15 01:14:29	QuitSave[QMDDepZai] OK: Leave Node[7]
+2023-10-15 01:14:29	SaveRoleData(QMDDepZai) OK: datalen(1296)
+2023-10-15 01:39:28	Deliver statdata: 0 bytes
+2023-10-15 03:39:28	Deliver statdata: 0 bytes
+2023-10-15 05:39:28	Deliver statdata: 0 bytes
+2023-10-15 07:39:28	Deliver statdata: 0 bytes
+2023-10-15 08:28:52	[WARNING]Refuse invalid connection[205.210.31.47 : 61240]
+2023-10-15 08:57:12	[WARNING]Refuse invalid connection[184.105.139.70 : 11098]
+2023-10-15 08:59:13	[WARNING]Refuse invalid connection[8.222.138.189 : 48646]
+2023-10-15 08:59:14	[WARNING]Refuse invalid connection[8.222.138.189 : 49138]
+2023-10-15 08:59:15	[WARNING]Refuse invalid connection[8.222.138.189 : 49298]
+2023-10-15 08:59:15	[WARNING]Refuse invalid connection[8.222.138.189 : 49444]
+2023-10-15 08:59:15	[WARNING]Refuse invalid connection[8.222.138.189 : 49570]
+2023-10-15 08:59:16	[WARNING]Refuse invalid connection[8.222.138.189 : 49722]
+2023-10-15 08:59:17	[WARNING]Refuse invalid connection[8.222.138.189 : 50142]
+2023-10-15 08:59:18	[WARNING]Refuse invalid connection[8.222.138.189 : 50600]
+2023-10-15 08:59:19	[WARNING]Refuse invalid connection[8.222.138.189 : 50794]
+2023-10-15 08:59:19	[WARNING]Refuse invalid connection[8.222.138.189 : 51112]
+2023-10-15 08:59:20	[WARNING]Refuse invalid connection[8.222.138.189 : 51584]
+2023-10-15 08:59:20	[WARNING]Refuse invalid connection[8.222.138.189 : 51882]
+2023-10-15 08:59:21	[WARNING]Refuse invalid connection[8.222.138.189 : 52176]
+2023-10-15 08:59:21	[WARNING]Refuse invalid connection[8.222.138.189 : 52262]
+2023-10-15 08:59:22	[WARNING]Refuse invalid connection[8.222.138.189 : 52458]
+2023-10-15 08:59:22	[WARNING]Refuse invalid connection[8.222.138.189 : 52548]
+2023-10-15 08:59:23	[WARNING]Refuse invalid connection[8.222.138.189 : 52622]
+2023-10-15 08:59:23	[WARNING]Refuse invalid connection[8.222.138.189 : 52852]
+2023-10-15 08:59:24	[WARNING]Refuse invalid connection[8.222.138.189 : 53122]
+2023-10-15 08:59:24	[WARNING]Refuse invalid connection[8.222.138.189 : 53402]
+2023-10-15 08:59:25	[WARNING]Refuse invalid connection[8.222.138.189 : 53726]
+2023-10-15 08:59:25	[WARNING]Refuse invalid connection[8.222.138.189 : 54220]
+2023-10-15 08:59:26	[WARNING]Refuse invalid connection[8.222.138.189 : 54340]
+2023-10-15 08:59:26	[WARNING]Refuse invalid connection[8.222.138.189 : 54492]
+2023-10-15 08:59:27	[WARNING]Refuse invalid connection[8.222.138.189 : 54592]
+2023-10-15 08:59:27	[WARNING]Refuse invalid connection[8.222.138.189 : 54732]
+2023-10-15 08:59:28	[WARNING]Refuse invalid connection[8.222.138.189 : 54920]
+2023-10-15 08:59:28	[WARNING]Refuse invalid connection[8.222.138.189 : 55208]
+2023-10-15 08:59:29	[WARNING]Refuse invalid connection[8.222.138.189 : 55418]
+2023-10-15 08:59:29	[WARNING]Refuse invalid connection[8.222.138.189 : 55600]
+2023-10-15 08:59:30	[WARNING]Refuse invalid connection[8.222.138.189 : 55818]
+2023-10-15 08:59:30	[WARNING]Refuse invalid connection[8.222.138.189 : 55910]
+2023-10-15 08:59:31	[WARNING]Refuse invalid connection[8.222.138.189 : 56782]
+2023-10-15 08:59:31	[WARNING]Refuse invalid connection[8.222.138.189 : 57000]
+2023-10-15 08:59:31	[WARNING]Refuse invalid connection[8.222.138.189 : 57282]
+2023-10-15 08:59:32	[WARNING]Refuse invalid connection[8.222.138.189 : 57410]
+2023-10-15 08:59:32	[WARNING]Refuse invalid connection[8.222.138.189 : 57550]
+2023-10-15 08:59:33	[WARNING]Refuse invalid connection[8.222.138.189 : 57710]
+2023-10-15 09:39:28	Deliver statdata: 0 bytes
+2023-10-15 11:39:28	Deliver statdata: 0 bytes
+2023-10-15 12:58:35	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 12:58:35	GetRoleData(C26ŸMaMen) OK: datalen(683)
+2023-10-15 12:58:35	EnterGame(C26ŸMaMen) OK: Move from Node[0] to Node[7]
+2023-10-15 12:58:38	QuitSave[C26ŸMaMen] OK: Leave Node[7]
+2023-10-15 12:58:38	SaveRoleData(C26ŸMaMen) OK: datalen(1004)
+2023-10-15 12:59:03	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 12:59:03	GetRoleData(C26ŸMaMen) OK: datalen(1004)
+2023-10-15 12:59:03	EnterGame(C26ŸMaMen) OK: Move from Node[0] to Node[7]
+2023-10-15 12:59:44	QuitSave[C26ŸMaMen] OK: Leave Node[7]
+2023-10-15 12:59:44	SaveRoleData(C26ŸMaMen) OK: datalen(1144)
+2023-10-15 12:59:49	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 12:59:49	GetRoleData(C26ŸMaMen) OK: datalen(1144)
+2023-10-15 12:59:49	EnterGame(C26ŸMaMen) OK: Move from Node[0] to Node[7]
+2023-10-15 13:08:50	SaveRoleData(C26ŸMaMen) OK: datalen(4374)
+2023-10-15 13:14:43	SaveRoleData(C26ŸMaMen) OK: datalen(4994)
+2023-10-15 13:16:53	SaveRoleData(C26ŸMaMen) OK: datalen(4562)
+2023-10-15 13:20:27	[WARNING]Refuse invalid connection[198.235.24.23 : 63484]
+2023-10-15 13:20:27	[WARNING]Refuse invalid connection[198.235.24.23 : 63486]
+2023-10-15 13:39:28	Deliver statdata: 0 bytes
+2023-10-15 13:50:13	SaveRoleData(C26ŸMaMen) OK: datalen(4678)
+2023-10-15 14:23:33	SaveRoleData(C26ŸMaMen) OK: datalen(4678)
+2023-10-15 14:35:58	QuitSave[C26ŸMaMen] OK: Leave Node[7]
+2023-10-15 14:35:58	SaveRoleData(C26ŸMaMen) OK: datalen(5010)
+2023-10-15 14:40:49	[WARNING]Refuse invalid connection[63.251.232.92 : 48338]
+2023-10-15 14:47:03	[WARNING]Refuse invalid connection[185.16.38.158 : 60463]
+2023-10-15 15:00:01	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 15:00:01	GetRoleData(C26ŸMaMen) OK: datalen(5010)
+2023-10-15 15:00:01	EnterGame(C26ŸMaMen) OK: Move from Node[0] to Node[7]
+2023-10-15 15:01:19	QuitSave[C26ŸMaMen] OK: Leave Node[7]
+2023-10-15 15:01:19	SaveRoleData(C26ŸMaMen) OK: datalen(5342)
+2023-10-15 15:01:24	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 15:01:24	GetRoleData(C26ŸMaMen) OK: datalen(5342)
+2023-10-15 15:01:25	EnterGame(C26ŸMaMen) OK: Move from Node[0] to Node[7]
+2023-10-15 15:18:24	QuitSave[C26ŸMaMen] OK: Leave Node[7]
+2023-10-15 15:18:24	SaveRoleData(C26ŸMaMen) OK: datalen(4298)
+2023-10-15 15:18:30	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 15:18:30	GetRoleData(C26ŸMaMen) OK: datalen(4298)
+2023-10-15 15:18:30	EnterGame(C26ŸMaMen) OK: Move from Node[0] to Node[7]
+2023-10-15 15:19:35	QuitSave[C26ŸMaMen] OK: Leave Node[7]
+2023-10-15 15:19:35	SaveRoleData(C26ŸMaMen) OK: datalen(5378)
+2023-10-15 15:39:28	Deliver statdata: 0 bytes
+2023-10-15 17:39:28	Deliver statdata: 0 bytes
+2023-10-15 18:25:09	GetRoleInfo(C26ŸMaMen) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 18:25:09	GetRoleData(C26ŸMaMen) OK: datalen(5378)
+2023-10-15 18:25:09	EnterGame(C26ŸMaMen) OK: Move from Node[0] to Node[7]
+2023-10-15 18:26:24	QuitSave[C26ŸMaMen] OK: Leave Node[7]
+2023-10-15 18:26:24	SaveRoleData(C26ŸMaMen) OK: datalen(4198)
+2023-10-15 18:26:28	GetRoleInfo(ùÖMañMenÖù) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 18:26:28	GetRoleData(ùÖMañMenÖù) OK: datalen(4206)
+2023-10-15 18:26:28	EnterGame(ùÖMañMenÖù) OK: Move from Node[0] to Node[7]
+2023-10-15 18:59:48	SaveRoleData(ùÖMañMenÖù) OK: datalen(2678)
+2023-10-15 19:33:08	SaveRoleData(ùÖMañMenÖù) OK: datalen(2678)
+2023-10-15 19:39:28	Deliver statdata: 0 bytes
+2023-10-15 20:06:28	SaveRoleData(ùÖMañMenÖù) OK: datalen(2678)
+2023-10-15 20:39:48	SaveRoleData(ùÖMañMenÖù) OK: datalen(5594)
+2023-10-15 20:39:56	SaveRoleData(ùÖMañMenÖù) OK: datalen(5594)
+2023-10-15 21:13:16	SaveRoleData(ùÖMañMenÖù) OK: datalen(5702)
+2023-10-15 21:20:10	CreateRoleData(NMVipPro) OK: Account(quangmd), datalen(683)
+2023-10-15 21:20:10	EnterGame(NMVipPro) OK: Move from Node[0] to Node[7]
+2023-10-15 21:21:00	QuitSave[NMVipPro] OK: Leave Node[7]
+2023-10-15 21:21:00	SaveRoleData(NMVipPro) OK: datalen(1044)
+2023-10-15 21:21:05	GetRoleInfo(NMVipPro) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 21:21:05	GetRoleData(NMVipPro) OK: datalen(1044)
+2023-10-15 21:21:05	EnterGame(NMVipPro) OK: Move from Node[0] to Node[7]
+2023-10-15 21:21:40	QuitSave[NMVipPro] OK: Leave Node[7]
+2023-10-15 21:21:40	SaveRoleData(NMVipPro) OK: datalen(1144)
+2023-10-15 21:24:39	QuitSave[ùÖMañMenÖù] OK: Leave Node[7]
+2023-10-15 21:24:39	SaveRoleData(ùÖMañMenÖù) OK: datalen(5702)
+2023-10-15 21:25:34	GetRoleInfo(ùÖMañMenÖù) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 21:25:34	GetRoleData(ùÖMañMenÖù) OK: datalen(5702)
+2023-10-15 21:25:35	EnterGame(ùÖMañMenÖù) OK: Move from Node[0] to Node[7]
+2023-10-15 21:30:34	QuitSave[ùÖMañMenÖù] OK: Leave Node[7]
+2023-10-15 21:30:34	SaveRoleData(ùÖMañMenÖù) OK: datalen(5918)
+2023-10-15 21:30:42	GetRoleInfo(124124) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 21:30:42	GetRoleData(124124) OK: datalen(683)
+2023-10-15 21:30:42	EnterGame(124124) OK: Move from Node[0] to Node[7]
+2023-10-15 21:31:03	QuitSave[124124] OK: Leave Node[7]
+2023-10-15 21:31:03	SaveRoleData(124124) OK: datalen(972)
+2023-10-15 21:31:10	GetRoleInfo(124124) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 21:31:10	GetRoleData(124124) OK: datalen(972)
+2023-10-15 21:31:10	EnterGame(124124) OK: Move from Node[0] to Node[7]
+2023-10-15 21:32:32	QuitSave[124124] OK: Leave Node[7]
+2023-10-15 21:32:32	SaveRoleData(124124) OK: datalen(2584)
+2023-10-15 21:32:37	GetRoleInfo(ùÖMañMenÖù) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 21:32:37	GetRoleData(ùÖMañMenÖù) OK: datalen(5918)
+2023-10-15 21:32:38	EnterGame(ùÖMañMenÖù) OK: Move from Node[0] to Node[7]
+2023-10-15 21:33:06	QuitSave[ùÖMañMenÖù] OK: Leave Node[7]
+2023-10-15 21:33:06	SaveRoleData(ùÖMañMenÖù) OK: datalen(5926)
+2023-10-15 21:39:28	Deliver statdata: 0 bytes
+2023-10-15 21:44:01	GetRoleInfo(NMVipPro) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 21:44:01	GetRoleData(NMVipPro) OK: datalen(1144)
+2023-10-15 21:44:01	EnterGame(NMVipPro) OK: Move from Node[0] to Node[7]
+2023-10-15 21:45:37	GetRoleInfo(ùÖMañMenÖù) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 21:45:37	GetRoleData(ùÖMañMenÖù) OK: datalen(5926)
+2023-10-15 21:45:37	EnterGame(ùÖMañMenÖù) OK: Move from Node[0] to Node[7]
+2023-10-15 21:46:03	QuitSave[ùÖMañMenÖù] OK: Leave Node[7]
+2023-10-15 21:46:03	SaveRoleData(ùÖMañMenÖù) OK: datalen(5926)
+2023-10-15 21:46:43	GetRoleInfo(ùÖMañMenÖù) OK: Enter Node[0](127.0.0.1 : 34461)
+2023-10-15 21:46:43	GetRoleData(ùÖMañMenÖù) OK: datalen(5926)
+2023-10-15 21:46:43	EnterGame(ùÖMañMenÖù) OK: Move from Node[0] to Node[7]
+2023-10-15 21:51:33	SaveRoleData(ùÖMañMenÖù) OK: datalen(9806)
+2023-10-15 21:52:31	SaveRoleData(ùÖMañMenÖù) OK: datalen(9914)
+2023-10-15 21:52:53	SaveRoleData(NMVipPro) OK: datalen(8488)
+2023-10-15 21:56:18	SaveRoleData(ùÖMañMenÖù) OK: datalen(4838)
+2023-10-15 22:22:11	QuitSave[ùÖMañMenÖù] OK: Leave Node[7]
+2023-10-15 22:22:11	SaveRoleData(ùÖMañMenÖù) OK: datalen(3434)
+2023-10-15 22:22:24	CreateRoleData(TomDaiCa) OK: Account(mamen), datalen(683)
+2023-10-15 22:22:24	EnterGame(TomDaiCa) OK: Move from Node[0] to Node[7]
+2023-10-15 22:26:13	SaveRoleData(NMVipPro) OK: datalen(14036)
+2023-10-15 22:55:44	SaveRoleData(TomDaiCa) OK: datalen(904)
+2023-10-15 22:59:33	SaveRoleData(NMVipPro) OK: datalen(14036)
+2023-10-15 23:25:23	SaveRoleData(NMVipPro) OK: datalen(13980)
+2023-10-15 23:25:23	SaveRoleData(TomDaiCa) OK: datalen(812)
+2023-10-15 23:26:30	SaveRoleData(NMVipPro) OK: datalen(14520)
+2023-10-15 23:36:47	QuitSave[NMVipPro] OK: Leave Node[7]
+2023-10-15 23:36:47	SaveRoleData(NMVipPro) OK: datalen(14868)
+2023-10-15 23:39:28	Deliver statdata: 0 bytes
+2023-10-15 23:58:43	SaveRoleData(TomDaiCa) OK: datalen(812)

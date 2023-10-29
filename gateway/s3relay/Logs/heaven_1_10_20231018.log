@@ -1,0 +1,31 @@
+2023-10-18 00:56:30	heaven(version 2.02) log start....
+2023-10-18 00:56:52	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 01:14:17	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 01:14:38	Allocate Connectionidx:1, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 01:18:17	heaven log close....
+2023-10-18 01:18:33	heaven(version 2.02) log start....
+2023-10-18 01:18:57	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 01:26:47	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 01:27:08	Allocate Connectionidx:1, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 01:30:36	Callback Connectionidx:1, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 01:30:40	heaven log close....
+2023-10-18 01:31:48	heaven(version 2.02) log start....
+2023-10-18 01:32:17	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 02:45:00	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 02:45:24	Allocate Connectionidx:1, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 02:50:07	Callback Connectionidx:1, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 02:50:30	Allocate Connectionidx:2, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 03:14:56	Callback Connectionidx:2, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 03:15:18	Allocate Connectionidx:3, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 03:18:12	Callback Connectionidx:3, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 03:18:35	Allocate Connectionidx:4, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 03:21:24	Callback Connectionidx:4, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 03:21:47	Allocate Connectionidx:5, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 03:31:11	Callback Connectionidx:5, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 03:31:34	Allocate Connectionidx:6, IP:127.0.0.1, LeftFreeCount:9
+2023-10-18 03:35:49	Callback Connectionidx:6, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-18 03:36:09	Allocate Connectionidx:7, IP:127.0.0.1, LeftFreeCount:9
+2023-10-19 00:31:51	Callback Connectionidx:7, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-19 00:32:15	Allocate Connectionidx:8, IP:127.0.0.1, LeftFreeCount:9
+2023-10-19 00:40:11	Callback Connectionidx:8, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 10
+2023-10-19 00:40:34	Allocate Connectionidx:9, IP:127.0.0.1, LeftFreeCount:9

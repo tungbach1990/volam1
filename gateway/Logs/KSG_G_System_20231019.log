@@ -1,0 +1,83 @@
+2023-10-19 00:15:26	[WARNING]Refuse invalid connection[198.20.101.106 : 39852]
+2023-10-19 00:30:54	[WARNING]Refuse invalid connection[198.20.101.106 : 38628]
+2023-10-19 00:31:51	Node[8] disconnect: Ip(127.0.0.1 : 51064), Identity(8)
+2023-10-19 00:31:51	ClientConnectClose:[8]
+
+2023-10-19 00:32:15	Node[7] connect: Ip(127.0.0.1 : 52696), Identity(9)
+2023-10-19 00:32:15	ClientConnectCreate:[7]127.0.0.1 : 52696
+2023-10-19 00:32:38	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-19 00:32:38	GetRoleData(GameMaster2) OK: datalen(2596)
+2023-10-19 00:32:38	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-19 00:32:41	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-19 00:32:41	GetRoleData(GameMaster2) OK: datalen(2596)
+2023-10-19 00:32:41	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-19 00:32:45	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-19 00:32:45	GetRoleData(GameMaster2) OK: datalen(2596)
+2023-10-19 00:32:45	LeaveBishop[GameMaster2] OK: Leave Node[0]
+2023-10-19 00:32:48	GetRoleInfo(GameMaster2) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-19 00:32:48	GetRoleData(GameMaster2) OK: datalen(2596)
+2023-10-19 00:32:48	EnterGame(GameMaster2) OK: Move from Node[0] to Node[7]
+2023-10-19 00:33:04	QuitSave[GameMaster2] OK: Leave Node[7]
+2023-10-19 00:33:04	SaveRoleData(GameMaster2) OK: datalen(2588)
+2023-10-19 00:33:15	CreateRoleData(GameMaster3) OK: Account(tungbach1990), datalen(683)
+2023-10-19 00:33:15	EnterGame(GameMaster3) OK: Move from Node[0] to Node[7]
+2023-10-19 00:33:25	QuitSave[GameMaster3] OK: Leave Node[7]
+2023-10-19 00:33:25	SaveRoleData(GameMaster3) OK: datalen(1148)
+2023-10-19 00:33:32	GetRoleInfo(GameMaster3) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-19 00:33:32	GetRoleData(GameMaster3) OK: datalen(1148)
+2023-10-19 00:33:32	EnterGame(GameMaster3) OK: Move from Node[0] to Node[7]
+2023-10-19 00:35:11	SaveRoleData(GameMaster3) OK: datalen(2656)
+2023-10-19 00:40:11	Node[7] disconnect: Ip(127.0.0.1 : 52696), Identity(9)
+2023-10-19 00:40:11	Clear role in Node[7]: GameMaster3
+2023-10-19 00:40:11	ClientConnectClose:[7]
+
+2023-10-19 00:40:18	GetRoleInfo(GameMaster3) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-19 00:40:18	GetRoleData(GameMaster3) OK: datalen(2656)
+2023-10-19 00:40:18	LeaveBishop[GameMaster3] OK: Leave Node[0]
+2023-10-19 00:40:24	GetRoleInfo(GameMaster3) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-19 00:40:24	GetRoleData(GameMaster3) OK: datalen(2656)
+2023-10-19 00:40:24	LeaveBishop[GameMaster3] OK: Leave Node[0]
+2023-10-19 00:40:29	GetRoleInfo(GameMaster3) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-19 00:40:29	GetRoleData(GameMaster3) OK: datalen(2656)
+2023-10-19 00:40:29	LeaveBishop[GameMaster3] OK: Leave Node[0]
+2023-10-19 00:40:34	Node[9] connect: Ip(127.0.0.1 : 40418), Identity(10)
+2023-10-19 00:40:34	ClientConnectCreate:[9]127.0.0.1 : 40418
+2023-10-19 00:41:49	GetRoleInfo(GameMaster3) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-19 00:41:49	GetRoleData(GameMaster3) OK: datalen(2656)
+2023-10-19 00:41:49	EnterGame(GameMaster3) OK: Move from Node[0] to Node[9]
+2023-10-19 00:42:51	QuitSave[GameMaster3] OK: Leave Node[9]
+2023-10-19 00:42:51	SaveRoleData(GameMaster3) OK: datalen(2812)
+2023-10-19 00:42:53	GetRoleInfo(GameMaster3) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-19 00:42:53	GetRoleData(GameMaster3) OK: datalen(2812)
+2023-10-19 00:42:54	EnterGame(GameMaster3) OK: Move from Node[0] to Node[9]
+2023-10-19 00:46:38	QuitSave[GameMaster3] OK: Leave Node[9]
+2023-10-19 00:46:38	SaveRoleData(GameMaster3) OK: datalen(3236)
+2023-10-19 00:46:41	GetRoleInfo(GameMaster3) OK: Enter Node[0](127.0.0.1 : 39204)
+2023-10-19 00:46:41	GetRoleData(GameMaster3) OK: datalen(3236)
+2023-10-19 00:46:41	EnterGame(GameMaster3) OK: Move from Node[0] to Node[9]
+2023-10-19 00:48:17	SaveRoleData(GameMaster3) OK: datalen(7772)
+2023-10-19 01:09:48	QuitSave[GameMaster3] OK: Leave Node[9]
+2023-10-19 01:09:48	SaveRoleData(GameMaster3) OK: datalen(6160)
+2023-10-19 01:23:16	[WARNING]Refuse invalid connection[207.90.244.5 : 41174]
+2023-10-19 01:23:20	[WARNING]Refuse invalid connection[207.90.244.5 : 41188]
+2023-10-19 01:31:46	Deliver statdata: 0 bytes
+2023-10-19 02:41:01	[WARNING]Refuse invalid connection[63.251.232.92 : 46130]
+2023-10-19 03:31:46	Deliver statdata: 0 bytes
+2023-10-19 05:17:17	[WARNING]Refuse invalid connection[198.235.24.198 : 60136]
+2023-10-19 05:17:18	[WARNING]Refuse invalid connection[198.235.24.198 : 60140]
+2023-10-19 05:31:46	Deliver statdata: 0 bytes
+2023-10-19 07:31:46	Deliver statdata: 0 bytes
+2023-10-19 09:31:46	Deliver statdata: 0 bytes
+2023-10-19 11:31:46	Deliver statdata: 0 bytes
+2023-10-19 13:03:35	[WARNING]Refuse invalid connection[71.6.134.230 : 46862]
+2023-10-19 13:19:03	[WARNING]Refuse invalid connection[71.6.134.230 : 50440]
+2023-10-19 13:22:12	[WARNING]Refuse invalid connection[198.235.24.254 : 57992]
+2023-10-19 13:31:46	Deliver statdata: 0 bytes
+2023-10-19 15:31:46	Deliver statdata: 0 bytes
+2023-10-19 17:31:46	Deliver statdata: 0 bytes
+2023-10-19 19:07:33	[WARNING]Refuse invalid connection[35.187.98.121 : 55156]
+2023-10-19 19:21:57	[WARNING]Refuse invalid connection[184.105.247.252 : 28266]
+2023-10-19 19:31:46	Deliver statdata: 0 bytes
+2023-10-19 21:31:46	Deliver statdata: 0 bytes
+2023-10-19 22:04:58	[WARNING]Refuse invalid connection[87.251.64.11 : 63931]
+2023-10-19 23:31:46	Deliver statdata: 0 bytes

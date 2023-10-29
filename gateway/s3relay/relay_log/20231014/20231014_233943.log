@@ -1,0 +1,14 @@
+[2023/10/14 23:39:43] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2010-3-30)
+[2023/10/14 23:39:43] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2010-10-19)
+[2023/10/14 23:39:43] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2011-3-20)
+[2023/10/14 23:39:43] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout()
+[2023/10/14 23:39:43] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2012-6-4)
+[2023/10/14 23:39:43] Delete event data: ShareKey(EVENT_2012ChristmasDay), Param1(-1), Param2(-1), Timeout(2013-1-30)
+[2023/10/14 23:39:43] Loading All Scripts....................
+[2023/10/14 23:39:43] Load Rank FUNC_RANK_EQUIPVALUE
+[2023/10/14 23:39:43] Load Stable Rank count 0
+[2023/10/14 23:39:43] Load Dynamic Rank count 0
+[2023/10/14 23:39:43] Load Rank FUNC_RANK_EQUIPVALUE end
+[2023/10/14 23:39:43] 
+All Scripts Have Been Loaded! Count = 88
+[2023/10/14 23:39:43] FAIL: 与RootRelay建立连接出错 -  cung voi RootRelay lap lien tiep bi sai bi sai - 
