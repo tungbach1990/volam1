@@ -1,3 +1,0 @@
-  c                    	[2023-10-19 00:34:41]	[SUCCESS]	[ACC]	tungbach1990	[ROLE]	GameMaster3	[C]	30	[COUNT]	1	[BUY]	[6-1-55-1]C¸i Bang c«n ph¸p	[PLACE]	140
-  c                    	[2023-10-19 00:34:41]	[SUCCESS]	[ACC]	tungbach1990	[ROLE]	GameMaster3	[C]	30	[COUNT]	1	[BUY]	[6-1-54-1]C¸i Bang ch­ëng ph¸p	[PLACE]	140
-  c                    	[2023-10-19 00:47:47]	[SUCCESS]	[ACC]	tungbach1990	[ROLE]	GameMaster3	[C]	2	[COUNT]	1	[BUY]	[6-1-2527-1]Håi thiªn t¸i t¹o lÔ bao	[PLACE]	139
